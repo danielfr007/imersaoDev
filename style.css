@@ -93,7 +93,7 @@ main {
     max-width: 80rem; /* Largura máxima do conteúdo principal */
     margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente */
     margin-top: 2rem; /* Margem no topo */
-    height: calc(100vh - 10rem - 4rem); /* Calcula a altura para preencher o espaço restante da tela */
+    height: calc(100vh - 10rem - 3rem); /* Calcula a altura para preencher o espaço restante da tela */
 }
 
 article {

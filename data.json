@@ -2437,5 +2437,437 @@
       "100g de Presunto picado",
       "1/2 xícara de Muçarela ralada"
     ]
+  },
+  {
+    "nome": "Feijão Fradinho Simples Temperado",
+    "modo_preparo": "Cozinhe o feijão fradinho em água e sal. Escorra. Em uma panela, refogue alho e cebola no azeite. Adicione o feijão cozido, cheiro-verde e ajuste o sal. Sirva frio ou quente.",
+    "tempo_preparo": "40 minutos",
+    "equipamentos": [
+      "panela de cozimento",
+      "panela de refogado",
+      "escorredor"
+    ],
+    "ingredientes": [
+      "2 xícaras de feijão fradinho",
+      "1 cebola picada",
+      "3 dentes de alho",
+      "azeite",
+      "sal",
+      "cheiro-verde picado"
+    ]
+  },
+  {
+    "nome": "Quiabo Refogado com Pimenta de Cheiro",
+    "modo_preparo": "Lave e seque bem o quiabo, cortando as pontas e em rodelas. Refogue alho no óleo. Adicione o quiabo e a pimenta de cheiro picada. Cozinhe em fogo médio até perder a baba (ou adicione limão). Tempere com sal.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "faca",
+      "tábua",
+      "frigideira grande"
+    ],
+    "ingredientes": [
+      "500g de quiabo",
+      "2 dentes de alho",
+      "1 pimenta de cheiro",
+      "óleo",
+      "sal",
+      "suco de 1/2 limão (opcional)"
+    ]
+  },
+  {
+    "nome": "Pudim de Chia com Leite de Coco e Manga",
+    "modo_preparo": "Misture as sementes de chia, o leite de coco e o mel em um pote. Mexa bem. Deixe na geladeira por no mínimo 4 horas ou durante a noite. Sirva com pedaços de manga por cima.",
+    "tempo_preparo": "5 minutos",
+    "equipamentos": [
+      "pote com tampa",
+      "colher",
+      "geladeira"
+    ],
+    "ingredientes": [
+      "3 colheres de sopa de sementes de chia",
+      "200ml de leite de coco",
+      "1 colher de sopa de mel",
+      "1 manga madura picada"
+    ]
+  },
+  {
+    "nome": "Pão de Minuto de Queijo e Orégano",
+    "modo_preparo": "Misture em uma tigela a farinha, o queijo ralado, o fermento, o óleo e o ovo. Adicione o leite aos poucos até formar uma massa pegajosa. Tempere com sal e orégano. Coloque em forminhas de cupcake untadas e asse em forno pré-aquecido a 180°C por 15-20 minutos.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "tigela",
+      "batedor de arame",
+      "forminhas de cupcake",
+      "forno"
+    ],
+    "ingredientes": [
+      "2 xícaras de farinha de trigo",
+      "1/2 xícara de leite",
+      "1 ovo",
+      "1/4 xícara de óleo",
+      "1 colher de sopa de fermento em pó",
+      "1/2 xícara de queijo parmesão ralado",
+      "sal",
+      "orégano"
+    ]
+  },
+  {
+    "nome": "Creme Simples de Ervilha Seca",
+    "modo_preparo": "Lave a ervilha seca e deixe de molho por 4 horas (ou use sem demolhar, cozinhando por mais tempo). Cozinhe a ervilha com água. Em outra panela, refogue bacon, alho e cebola. Adicione a ervilha cozida e amasse ou bata no liquidificador. Volte ao fogo, tempere com sal e pimenta do reino.",
+    "tempo_preparo": "60 minutos",
+    "equipamentos": [
+      "panela de pressão (opcional)",
+      "liquidificador",
+      "panela"
+    ],
+    "ingredientes": [
+      "1 xícara de ervilha seca",
+      "1/2 cebola",
+      "2 dentes de alho",
+      "50g de bacon picado",
+      "água",
+      "sal e pimenta do reino"
+    ]
+  },
+  {
+    "nome": "Bolo Simples de Chocolate de Liquidificador",
+    "modo_preparo": "Bata no liquidificador os ovos, o óleo e o açúcar. Adicione o leite e o chocolate em pó, batendo mais um pouco. Transfira para uma tigela e misture a farinha e o fermento peneirados. Coloque em forma untada e asse por 35 minutos a 180°C.",
+    "tempo_preparo": "45 minutos",
+    "equipamentos": [
+      "liquidificador",
+      "tigela",
+      "forma de bolo",
+      "forno"
+    ],
+    "ingredientes": [
+      "3 ovos",
+      "1 xícara de óleo",
+      "2 xícaras de açúcar",
+      "1 xícara de leite quente",
+      "1 xícara de chocolate em pó (não achocolatado)",
+      "2 xícaras de farinha de trigo",
+      "1 colher de sopa de fermento"
+    ]
+  },
+  {
+    "nome": "Brócolis Cozido no Vapor com Alho e Limão",
+    "modo_preparo": "Corte o brócolis em floretes. Cozinhe no vapor até ficar macio, mas ainda crocante (cerca de 8 minutos). Transfira para uma tigela. Regue com azeite, suco de limão, alho picado cru e sal.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "panela com cesto de vapor",
+      "tigela"
+    ],
+    "ingredientes": [
+      "1 cabeça grande de brócolis",
+      "2 colheres de sopa de azeite",
+      "suco de 1/2 limão",
+      "1 dente de alho pequeno picado",
+      "sal"
+    ]
+  },
+  {
+    "nome": "Carne de Sol Desfiada com Cebola na Manteiga",
+    "modo_preparo": "Dessalgue a carne de sol (deixe de molho por 12h, trocando a água). Cozinhe na pressão até ficar macia. Desfie a carne. Em uma frigideira, derreta manteiga de garrafa e refogue as rodelas de cebola até dourarem. Adicione a carne desfiada e frite levemente para pegar sabor.",
+    "tempo_preparo": "150 minutos",
+    "equipamentos": [
+      "panela de pressão",
+      "frigideira",
+      "garfo"
+    ],
+    "ingredientes": [
+      "500g de carne de sol (ou seca)",
+      "2 colheres de sopa de manteiga de garrafa",
+      "2 cebolas grandes cortadas em rodelas"
+    ]
+  },
+  {
+    "nome": "Massa Podre Simples para Torta Doce",
+    "modo_preparo": "Misture a farinha e o açúcar. Adicione a manteiga gelada em cubos e esfregue com a ponta dos dedos até formar uma farofa. Adicione a gema e a água gelada, amassando rapidamente até formar uma bola homogênea. Leve à geladeira por 30 minutos antes de abrir e assar com o recheio.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "tigela",
+      "rolo de massa",
+      "forma de torta"
+    ],
+    "ingredientes": [
+      "2 xícaras de farinha de trigo",
+      "1/2 xícara de açúcar",
+      "150g de manteiga sem sal gelada",
+      "1 gema",
+      "2 colheres de sopa de água gelada"
+    ]
+  },
+  {
+    "nome": "Doce de Banana de Colher (Bananada Rápida)",
+    "modo_preparo": "Corte as bananas em rodelas. Coloque-as em uma panela com o açúcar, a água e a canela. Cozinhe em fogo baixo, mexendo ocasionalmente, até a banana desmanchar e obter consistência de geleia ou doce cremoso.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "panela de fundo grosso",
+      "colher de pau"
+    ],
+    "ingredientes": [
+      "6 bananas nanicas maduras",
+      "1/2 xícara de açúcar",
+      "1/4 xícara de água",
+      "1 pau de canela (ou canela em pó)"
+    ]
+  },
+  {
+    "nome": "Arroz Temperado com Curry e Passas",
+    "modo_preparo": "Refogue o alho no azeite. Adicione o arroz e frite bem. Acrescente o curry e misture. Adicione a água quente, o sal e as passas. Cozinhe em fogo baixo até a água secar e o arroz ficar solto.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "panela",
+      "colher"
+    ],
+    "ingredientes": [
+      "2 xícaras de arroz",
+      "4 xícaras de água quente",
+      "1 colher de chá de curry em pó",
+      "1/2 xícara de uvas passas brancas",
+      "1 dente de alho",
+      "azeite",
+      "sal"
+    ]
+  },
+  {
+    "nome": "Milho Cozido Simples na Água e Sal",
+    "modo_preparo": "Lave as espigas de milho. Coloque em uma panela grande com água suficiente para cobrir e adicione o sal. Cozinhe em fogo alto por cerca de 30 a 40 minutos, ou até que os grãos estejam macios. Sirva quente com manteiga.",
+    "tempo_preparo": "40 minutos",
+    "equipamentos": [
+      "panela grande"
+    ],
+    "ingredientes": [
+      "4 espigas de milho verde",
+      "água",
+      "sal",
+      "manteiga para servir"
+    ]
+  },
+  {
+    "nome": "Ovo Frito na Água (Simulação de Poché)",
+    "modo_preparo": "Ferva água em uma panela pequena. Adicione uma pitada de sal e um fio de vinagre. Quebre o ovo em uma xícara. Crie um redemoinho na água fervente com uma colher e deslize o ovo no centro. Cozinhe por 3 a 4 minutos até a clara estar firme e a gema mole.",
+    "tempo_preparo": "5 minutos",
+    "equipamentos": [
+      "panela pequena",
+      "colher"
+    ],
+    "ingredientes": [
+      "1 ovo",
+      "água",
+      "1 colher de chá de vinagre",
+      "sal"
+    ]
+  },
+  {
+    "nome": "Salada de Alface com Molho de Mel e Mostarda",
+    "modo_preparo": "Lave e pique a alface americana. Para o molho: misture em um pote azeite, vinagre, mostarda e mel, batendo bem até emulsionar. Tempere com sal e pimenta do reino. Sirva a alface regada com o molho.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "tigela",
+      "pote com tampa (para o molho)"
+    ],
+    "ingredientes": [
+      "1 pé de alface americana",
+      "3 colheres de sopa de azeite",
+      "1 colher de sopa de vinagre de vinho branco",
+      "1 colher de chá de mostarda dijon",
+      "1 colher de chá de mel",
+      "sal e pimenta do reino"
+    ]
+  },
+  {
+    "nome": "Maionese Verde Caseira com Salsinha",
+    "modo_preparo": "No liquidificador, coloque os ovos, o óleo (apenas metade), o alho, a salsinha, o sal e a pimenta. Bata e vá adicionando o restante do óleo em fio até a mistura engrossar e formar a maionese. Adicione o limão no final.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "liquidificador",
+      "colher"
+    ],
+    "ingredientes": [
+      "2 ovos (crus)",
+      "300ml de óleo de girassol",
+      "1 maço pequeno de salsinha",
+      "1 dente de alho",
+      "suco de 1/2 limão",
+      "sal e pimenta do reino"
+    ]
+  },
+  {
+    "nome": "Macarrão com Molho Simples de Sardinha",
+    "modo_preparo": "Cozinhe o macarrão. Enquanto isso, em uma panela, refogue alho e cebola no azeite. Adicione o molho de tomate e a sardinha escorrida, desfazendo-a grosseiramente. Deixe ferver por 5 minutos e tempere com sal e orégano. Misture o molho ao macarrão cozido.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "panela para macarrão",
+      "panela para molho",
+      "escorredor"
+    ],
+    "ingredientes": [
+      "300g de macarrão (espaguete ou parafuso)",
+      "1 lata de sardinha em óleo (escorrida)",
+      "1 lata de molho de tomate",
+      "1/2 cebola",
+      "2 dentes de alho",
+      "azeite",
+      "sal e orégano"
+    ]
+  },
+  {
+    "nome": "Cuscuz de Tapioca Granulada (Gelado)",
+    "modo_preparo": "Em uma tigela grande, misture a tapioca granulada, o açúcar e o coco ralado. Ferva o leite com o sal e despeje sobre a mistura, mexendo bem. Deixe descansar por 10 minutos. Transfira para uma forma e leve à geladeira por 3 horas. Desenforme e sirva com leite condensado.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "tigela",
+      "forma de bolo (com furo central)",
+      "panela"
+    ],
+    "ingredientes": [
+      "1 xícara de tapioca granulada",
+      "1 litro de leite integral",
+      "1 xícara de coco ralado",
+      "1/2 xícara de açúcar",
+      "1 pitada de sal",
+      "leite condensado (para servir)"
+    ]
+  },
+  {
+    "nome": "Lentilha Simples Cozida e Temperada",
+    "modo_preparo": "Lave a lentilha. Cozinhe com água e sal (cerca de 25 minutos). Em outra panela, refogue cebola e bacon picados no azeite. Adicione a lentilha cozida e escorrida (com um pouco da água do cozimento). Tempere com cominho e cheiro-verde. Deixe ferver para incorporar o sabor.",
+    "tempo_preparo": "35 minutos",
+    "equipamentos": [
+      "panela de cozimento",
+      "panela de refogado"
+    ],
+    "ingredientes": [
+      "1 xícara de lentilha",
+      "1/2 cebola picada",
+      "50g de bacon",
+      "azeite",
+      "sal",
+      "cominho (opcional)",
+      "cheiro-verde"
+    ]
+  },
+  {
+    "nome": "Molho de Cenoura Cremoso para Massas",
+    "modo_preparo": "Cozinhe as cenouras até ficarem bem macias. Bata no liquidificador com a água do cozimento, o creme de leite, o caldo de legumes e a noz-moscada. Refogue alho no azeite e adicione o molho batido. Deixe aquecer e ajuste o sal. Sirva com a massa de sua preferência.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "panela",
+      "liquidificador",
+      "frigideira"
+    ],
+    "ingredientes": [
+      "3 cenouras médias",
+      "1/2 caixa de creme de leite",
+      "1/2 xícara de água do cozimento",
+      "1 dente de alho",
+      "azeite",
+      "1/2 cubo de caldo de legumes",
+      "noz-moscada e sal"
+    ]
+  },
+  {
+    "nome": "Pudim de Leite Individual de Micro-ondas",
+    "modo_preparo": "Derreta 2 colheres de açúcar com 1 colher de água em canecas resistentes. Reserve. Bata no liquidificador o ovo, o leite condensado e o leite. Despeje a mistura nas canecas. Cozinhe no micro-ondas em potência média por 2 a 3 minutos, ou até firmar. Resfrie e desenforme.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "liquidificador",
+      "canecas (ou potes individuais)",
+      "micro-ondas"
+    ],
+    "ingredientes": [
+      "1 ovo",
+      "1/2 lata de leite condensado",
+      "1/2 lata de leite (medida da lata)",
+      "açúcar e água (para a calda)"
+    ]
+  },
+  {
+    "nome": "Frango Desfiado Temperado na Panela",
+    "modo_preparo": "Cozinhe o peito de frango com sal, louro e água na panela de pressão por 20 minutos. Retire o frango e escorra. Feche a panela vazia e chacoalhe vigorosamente até o frango desfiar. Refogue alho, cebola e tomate no óleo. Adicione o frango desfiado, molho de tomate e temperos a gosto (páprica, açafrão).",
+    "tempo_preparo": "35 minutos",
+    "equipamentos": [
+      "panela de pressão",
+      "panela de refogado"
+    ],
+    "ingredientes": [
+      "1 peito de frango (cerca de 500g)",
+      "1 folha de louro",
+      "1 cebola",
+      "2 dentes de alho",
+      "óleo",
+      "molho de tomate (opcional)",
+      "temperos secos",
+      "sal"
+    ]
+  },
+  {
+    "nome": "Abacate Recheado com Camarão Cozido",
+    "modo_preparo": "Corte o abacate ao meio e retire o caroço. Cozinhe e tempere o camarão com sal, pimenta e limão. Em uma tigela, misture o camarão com maionese caseira e um pouco de coentro picado. Coloque a mistura na cavidade do abacate.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "faca",
+      "tigela",
+      "panela"
+    ],
+    "ingredientes": [
+      "1 abacate maduro",
+      "200g de camarão pequeno limpo",
+      "2 colheres de sopa de maionese",
+      "limão",
+      "sal e pimenta",
+      "coentro picado"
+    ]
+  },
+  {
+    "nome": "Bolinho Simples de Mandioca Cozida",
+    "modo_preparo": "Cozinhe a mandioca até ficar muito macia. Amasse como se fosse um purê. Misture a mandioca amassada com a manteiga, o ovo, o queijo ralado e o sal. Modele os bolinhos e frite em óleo quente até dourarem.",
+    "tempo_preparo": "45 minutos",
+    "equipamentos": [
+      "panela de pressão",
+      "amassador de batata",
+      "tigela",
+      "frigideira funda"
+    ],
+    "ingredientes": [
+      "500g de mandioca (aipim) cozida e amassada",
+      "2 colheres de sopa de manteiga",
+      "1 ovo",
+      "1/4 xícara de queijo parmesão ralado",
+      "sal",
+      "óleo para fritar"
+    ]
+  },
+  {
+    "nome": "Creme Simples de Papaia com Cassis",
+    "modo_preparo": "Corte o mamão papaia e retire as sementes. Bata no liquidificador com o creme de leite, o açúcar e o suco de cassis (ou licor). Sirva gelado.",
+    "tempo_preparo": "5 minutos",
+    "equipamentos": [
+      "liquidificador",
+      "tigela ou taças",
+      "geladeira"
+    ],
+    "ingredientes": [
+      "1 mamão papaia maduro",
+      "1 caixa de creme de leite gelado",
+      "2 colheres de sopa de açúcar",
+      "1 colher de chá de licor ou suco concentrado de cassis (ou groselha)"
+    ]
+  },
+  {
+    "nome": "Refogado de Couve Manteiga com Calabresa",
+    "modo_preparo": "Corte a couve em tiras finas. Frite a linguiça calabresa picada até soltar a gordura. Adicione o alho picado e refogue. Acrescente a couve e refogue rapidamente por 2 a 3 minutos, até murchar. Tempere com sal (se necessário, pois a calabresa já é salgada).",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "frigideira grande",
+      "faca"
+    ],
+    "ingredientes": [
+      "1 maço de couve manteiga",
+      "1/2 gomo de linguiça calabresa defumada",
+      "2 dentes de alho",
+      "óleo ou azeite (se a calabresa não soltar gordura)"
+    ]
   }
 ]
