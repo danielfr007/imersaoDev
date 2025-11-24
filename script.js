@@ -68,3 +68,18 @@ function renderizarCards(dados) {
         cardContainer.appendChild(article);
     }
 }
+
+// Captura o campo de input pelo ID
+const campo_Busca = document.getElementById('search');
+
+// Adiciona um ouvinte de evento para 'keydown' (tecla pressionada)
+campo_Busca.addEventListener('keydown', function(event) {
+    // Verifica se a tecla pressionada é a 'Enter' (código 13 ou 'Enter')
+    if (event.key === 'Enter' || event.keyCode === 13) {
+        // Previne o comportamento padrão do Enter em formulários (como recarregar a página)
+        event.preventDefault();
+        
+        // Chama a função desejada
+        iniciarBusca();
+    }
+});
