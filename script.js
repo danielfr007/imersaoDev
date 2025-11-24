@@ -44,13 +44,13 @@ function renderizarCards(dados) {
     for (let dado of dados) {
         let article = document.createElement("article");
         article.classList.add("card");
-        let lista_ingredientes = "<p>Ingredientes</p><ul>";
+        let lista_ingredientes = "<ul>";
         for (let ingrediente of dado.ingredientes) {
             lista_ingredientes += `<li>${ingrediente}</li>`;
         }
         lista_ingredientes += "</ul>";
 
-        let lista_equipamentos = "<p>Equipamentos</p><ul>";
+        let lista_equipamentos = "<ul>";
         for (let equipamento of dado.equipamentos) {
             lista_equipamentos += `<li>${equipamento}</li>`;
         }
@@ -59,10 +59,10 @@ function renderizarCards(dados) {
         
         article.innerHTML = `
         <h2>${dado.nome}</h2>
-        <p>${dado.tempo_preparo}</p>
-        <p>${lista_ingredientes}</p>
-        <p>${lista_equipamentos}</p>
-        <p>${dado.modo_preparo}</p>
+        <p><strong>Tempo de Preparo:</strong>\n${dado.tempo_preparo}</p>
+        <p><strong>Ingredientes:</strong>\n${lista_ingredientes}</p>
+        <p><strong>Equipamentos:</strong>\n${lista_equipamentos}</p>
+        <p><strong>Modo de Preparo:</strong>\n${dado.modo_preparo}</p>
 
         `
         cardContainer.appendChild(article);

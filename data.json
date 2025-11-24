@@ -1028,5 +1028,1414 @@
       "Cheiro-verde",
       "Sal e temperos a gosto"
     ]
+  },
+  {
+    "nome": "Bolo de Caneca de Chocolate no Micro-ondas",
+    "modo_preparo": "Misture os ingredientes secos. Adicione o ovo, o óleo e o leite. Misture bem até ficar homogêneo. Coloque na caneca e leve ao micro-ondas por 1 minuto e 30 segundos a 2 minutos, dependendo da potência, até que esteja firme.",
+    "tempo_preparo": "5 minutos",
+    "equipamentos": [
+      "Caneca de 300ml",
+      "Micro-ondas",
+      "Colher"
+    ],
+    "ingredientes": [
+      "4 colheres de sopa de farinha de trigo",
+      "4 colheres de sopa de açúcar",
+      "2 colheres de sopa de chocolate em pó ou cacau",
+      "1/2 colher de café de fermento em pó",
+      "1 ovo pequeno",
+      "3 colheres de sopa de leite",
+      "1 colher de sopa de óleo vegetal"
+    ]
+  },
+  {
+    "nome": "Arroz de Pobre (com Ovo e Batata Frita)",
+    "modo_preparo": "Frite as batatas palito ou em cubos. Enquanto isso, frite os ovos na manteiga ou azeite, deixando a gema mole (se preferir). Sirva o arroz já cozido, as batatas fritas e o ovo por cima. Tempere com sal e pimenta.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Frigideira para fritura",
+      "Escumadeira",
+      "Prato"
+    ],
+    "ingredientes": [
+      "1 xícara de arroz cozido",
+      "2 batatas médias (para fritar)",
+      "2 ovos",
+      "Óleo para fritar",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Pão com Ovo Frito no Buraco (Toast)",
+    "modo_preparo": "Corte um círculo no meio da fatia de pão. Derreta a manteiga na frigideira e coloque a fatia de pão. Quebre o ovo no buraco. Tempere com sal e pimenta. Se quiser, coloque a 'tampa' do pão ao lado para tostar. Cozinhe até o ovo estar no ponto desejado.",
+    "tempo_preparo": "8 minutos",
+    "equipamentos": [
+      "Frigideira antiaderente",
+      "Cortador redondo ou faca"
+    ],
+    "ingredientes": [
+      "2 fatias de pão de forma",
+      "2 ovos",
+      "1 colher de sopa de manteiga",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Picolé Caseiro de Iogurte e Frutas Vermelhas",
+    "modo_preparo": "Misture o iogurte natural com o mel. Adicione as frutas vermelhas picadas. Despeje a mistura em forminhas de picolé ou copinhos plásticos. Insira o palito e leve ao congelador por pelo menos 4 horas ou até endurecer.",
+    "tempo_preparo": "10 minutos (+ tempo de congelamento)",
+    "equipamentos": [
+      "Forminhas de picolé",
+      "Tigela",
+      "Colher"
+    ],
+    "ingredientes": [
+      "1 pote de iogurte natural integral (170g)",
+      "1/4 xícara de frutas vermelhas (morango, mirtilo)",
+      "1 colher de sopa de mel ou açúcar"
+    ]
+  },
+  {
+    "nome": "Creme de Espinafre Simples",
+    "modo_preparo": "Refogue o alho picado na manteiga. Adicione o espinafre picado e refogue até murchar. Em uma panela separada, misture o leite, a farinha de trigo e o sal, e leve ao fogo baixo, mexendo até engrossar. Junte o espinafre refogado ao molho branco. Sirva quente.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Duas panelas médias",
+      "Colher de pau"
+    ],
+    "ingredientes": [
+      "1 maço de espinafre",
+      "1 dente de alho picado",
+      "1 colher de sopa de manteiga",
+      "1 xícara de leite",
+      "1 colher de sopa rasa de farinha de trigo",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Feijão Simples Temperado (A partir de Feijão Cozido)",
+    "modo_preparo": "Em uma panela, aqueça o óleo ou azeite. Doure o alho e a cebola picados. Adicione o feijão cozido (grãos e caldo). Amasse alguns grãos na lateral da panela para engrossar. Adicione a folha de louro e sal a gosto. Deixe ferver por 10 minutos para apurar o tempero.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Panela média",
+      "Colher de pau"
+    ],
+    "ingredientes": [
+      "2 xícaras de feijão cozido (com caldo)",
+      "1/2 cebola pequena picada",
+      "2 dentes de alho amassados",
+      "1 folha de louro",
+      "Óleo ou azeite",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Doce de Abóbora em Cubos (Sem Coco)",
+    "modo_preparo": "Descasque e corte a abóbora em cubos pequenos. Coloque na panela com o açúcar, o cravo e a canela em pau. Leve ao fogo baixo. A abóbora soltará água. Deixe cozinhar, mexendo ocasionalmente, até que os cubos estejam macios e o caldo tenha reduzido a uma calda espessa. Aproximadamente 30-40 minutos.",
+    "tempo_preparo": "45 minutos",
+    "equipamentos": [
+      "Panela grande",
+      "Faca"
+    ],
+    "ingredientes": [
+      "500g de abóbora madura (cabotiá ou pescoço)",
+      "1 xícara de açúcar",
+      "4 cravos da índia",
+      "1 pau de canela"
+    ]
+  },
+  {
+    "nome": "Isca de Frango à Milanesa Rápida (Fritura)",
+    "modo_preparo": "Corte o peito de frango em tiras (iscas). Tempere com sal e pimenta. Passe as iscas primeiro no ovo batido e depois na farinha de rosca. Frite em óleo quente até dourarem por igual. Retire e coloque em papel toalha para escorrer o excesso de óleo.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Frigideira funda",
+      "Tigelas rasas",
+      "Papel toalha"
+    ],
+    "ingredientes": [
+      "300g de peito de frango",
+      "1 ovo",
+      "1 xícara de farinha de rosca",
+      "Sal e pimenta a gosto",
+      "Óleo para fritar"
+    ]
+  },
+  {
+    "nome": "Massa Simples de Torta Salgada (3 Ingredientes)",
+    "modo_preparo": "Em uma tigela, misture a farinha e o sal. Adicione a manteiga gelada em cubos. Misture com as pontas dos dedos até formar uma farofa úmida. Adicione a água gelada colher por colher, amassando apenas até a massa se unir. Não sove. Leve à geladeira por 30 minutos antes de abrir e usar.",
+    "tempo_preparo": "15 minutos (+ 30 min de refrigeração)",
+    "equipamentos": [
+      "Tigela",
+      "Rolo de macarrão (opcional)"
+    ],
+    "ingredientes": [
+      "2 xícaras de farinha de trigo",
+      "1/2 colher de chá de sal",
+      "200g de manteiga sem sal gelada",
+      "2 a 3 colheres de sopa de água gelada"
+    ]
+  },
+  {
+    "nome": "Molho Branco Básico (Béchamel)",
+    "modo_preparo": "Derreta a manteiga em uma panela. Adicione a farinha de trigo e cozinhe por 1 minuto, formando um 'roux'. Adicione o leite frio aos poucos, mexendo vigorosamente com um fouet para evitar grumos. Tempere com sal, pimenta e noz-moscada ralada. Cozinhe até engrossar.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Panela pequena",
+      "Fouet (batedor de arame)"
+    ],
+    "ingredientes": [
+      "2 colheres de sopa de manteiga",
+      "2 colheres de sopa de farinha de trigo",
+      "500 ml de leite integral",
+      "Sal e pimenta branca a gosto",
+      "Noz-moscada ralada a gosto"
+    ]
+  },
+  {
+    "nome": "Repolho Refogado com Cenoura",
+    "modo_preparo": "Fatie o repolho e rale a cenoura. Em uma panela grande, aqueça o azeite e doure o alho picado. Adicione o repolho e a cenoura, mexendo sempre. Tempere com sal e pimenta. Adicione 1/4 de xícara de água, tampe e deixe cozinhar em fogo médio por 5 a 7 minutos, até o repolho ficar macio, mas ainda crocante.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Panela grande",
+      "Ralador"
+    ],
+    "ingredientes": [
+      "1/2 repolho médio",
+      "1 cenoura média",
+      "2 dentes de alho picados",
+      "2 colheres de sopa de azeite de oliva",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Abacaxi Grelhado com Canela",
+    "modo_preparo": "Descasque o abacaxi e corte em rodelas grossas. Polvilhe as rodelas com açúcar e canela. Aqueça a frigideira ou chapa com um pouco de manteiga. Grelhe as rodelas por 3 a 4 minutos de cada lado, até que fiquem caramelizadas e com marcas de grelha. Sirva quente.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Frigideira ou chapa",
+      "Faca"
+    ],
+    "ingredientes": [
+      "1 abacaxi em rodelas",
+      "2 colheres de sopa de açúcar",
+      "1 colher de chá de canela em pó",
+      "Manteiga para grelhar"
+    ]
+  },
+  {
+    "nome": "Batata Doce Cozida e Temperada",
+    "modo_preparo": "Descasque e corte a batata doce em pedaços médios. Cozinhe em água e sal até ficarem macias (cerca de 15 minutos). Escorra a água. Em uma tigela, misture a batata doce cozida com azeite, cheiro-verde picado e sal. Misture delicadamente para não desmanchar.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Panela média",
+      "Escorredor"
+    ],
+    "ingredientes": [
+      "2 batatas doces médias",
+      "2 colheres de sopa de azeite de oliva",
+      "Sal a gosto",
+      "Cheiro-verde picado a gosto"
+    ]
+  },
+  {
+    "nome": "Chá Gelado Caseiro de Limão e Hortelã",
+    "modo_preparo": "Ferva a água. Desligue o fogo e adicione as folhas de hortelã e o açúcar. Deixe em infusão por 10 minutos. Coe e reserve. Quando estiver frio, adicione o suco de limão. Leve à geladeira. Sirva com cubos de gelo e rodelas de limão.",
+    "tempo_preparo": "15 minutos (+ tempo de resfriamento)",
+    "equipamentos": [
+      "Chaleira",
+      "Jarra",
+      "Peneira"
+    ],
+    "ingredientes": [
+      "1 litro de água",
+      "1/2 xícara de folhas de hortelã fresca",
+      "Suco de 2 limões",
+      "Açúcar ou adoçante a gosto (opcional)"
+    ]
+  },
+  {
+    "nome": "Pipoca Doce com Calda de Açúcar",
+    "modo_preparo": "Em uma panela, coloque o óleo e o milho e estoure a pipoca normalmente. Reserve. Na mesma panela (ou em outra), derreta a manteiga com o açúcar e o corante (se usar). Mexa até formar uma calda. Despeje a pipoca reservada na calda e mexa rapidamente para envolver todos os grãos. Desligue e espalhe para esfriar.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Panela grande com tampa",
+      "Colher"
+    ],
+    "ingredientes": [
+      "1/2 xícara de milho para pipoca",
+      "Óleo para estourar",
+      "1/2 xícara de açúcar",
+      "1 colher de sopa de manteiga",
+      "Gotas de corante alimentício vermelho (opcional)"
+    ]
+  },
+  {
+    "nome": "Geleia Rápida de Pimenta Dedo de Moça",
+    "modo_preparo": "Retire as sementes da pimenta e pique bem (use luvas). Coloque a pimenta picada, o açúcar, o vinagre e a água em uma panela. Leve ao fogo médio e cozinhe, mexendo ocasionalmente. Deixe reduzir até obter a consistência de geleia (cerca de 20 minutos). A geleia irá engrossar mais ao esfriar.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Panela pequena",
+      "Luvas de proteção"
+    ],
+    "ingredientes": [
+      "5 pimentas dedo de moça",
+      "1 xícara de açúcar",
+      "1/4 xícara de vinagre de maçã",
+      "1/2 xícara de água"
+    ]
+  },
+  {
+    "nome": "Couve-Flor Cozida com Molho de Mostarda",
+    "modo_preparo": "Cozinhe os floretes de couve-flor no vapor ou em água com sal até ficarem macios. Enquanto cozinha, prepare o molho: misture o azeite, a mostarda, o vinagre e tempere com sal e pimenta. Escorra a couve-flor e regue com o molho. Sirva quente ou frio.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Panela com cesto de vapor ou panela comum",
+      "Tigela pequena"
+    ],
+    "ingredientes": [
+      "1 cabeça média de couve-flor",
+      "3 colheres de sopa de azeite de oliva",
+      "1 colher de sopa de mostarda Dijon ou amarela",
+      "1 colher de chá de vinagre (ou limão)",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Pão na Chapa com Requeijão (Café da Manhã)",
+    "modo_preparo": "Corte o pão francês ao meio no sentido do comprimento. Espalhe uma fina camada de manteiga em cada lado. Coloque o pão na chapa ou frigideira aquecida, com o lado da manteiga para baixo. Toste até ficar dourado e crocante. Retire do fogo e espalhe o requeijão na parte macia.",
+    "tempo_preparo": "7 minutos",
+    "equipamentos": [
+      "Frigideira ou chapa",
+      "Faca"
+    ],
+    "ingredientes": [
+      "1 pão francês",
+      "1 colher de sopa de manteiga",
+      "2 colheres de sopa de requeijão cremoso"
+    ]
+  },
+  {
+    "nome": "Salada Simples de Grão de Bico e Cebola",
+    "modo_preparo": "Escorra e lave bem o grão de bico cozido. Pique a cebola roxa em tiras finas e o salsinha. Em uma tigela, misture o grão de bico, a cebola e a salsinha. Regue com azeite e limão. Tempere com sal. Misture bem e sirva.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Escorredor"
+    ],
+    "ingredientes": [
+      "1 xícara de grão de bico cozido",
+      "1/2 cebola roxa pequena",
+      "3 colheres de sopa de salsinha picada",
+      "2 colheres de sopa de azeite de oliva",
+      "Suco de 1/2 limão",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Hambúrguer Caseiro na Frigideira",
+    "modo_preparo": "Tempere a carne moída com sal, pimenta e alho (se desejar). Modele em formato de hambúrgueres. Aqueça a frigideira com um fio de azeite. Frite os hambúrgueres por 3 a 5 minutos de cada lado, dependendo do ponto. Nos minutos finais, coloque a fatia de queijo por cima e tampe para derreter. Monte o sanduíche com pão e seus acompanhamentos preferidos.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Frigideira",
+      "Espátula"
+    ],
+    "ingredientes": [
+      "300g de carne moída (patinho ou acém)",
+      "Sal e pimenta do reino a gosto",
+      "2 fatias de queijo prato ou mussarela",
+      "2 pães de hambúrguer",
+      "Alface, tomate e maionese (opcional)"
+    ]
+  },
+  {
+    "nome": "Cuscuz Paulista de Micro-ondas",
+    "modo_preparo": "Misture o flocão de milho com água e sal, deixando hidratar por 10 minutos. Adicione o azeite, tomate picado, milho e azeitonas. Misture bem e coloque em uma caneca ou tigela. Leve ao micro-ondas por 3 minutos em potência alta. Desenforme e sirva.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Caneca ou tigela refratária",
+      "Micro-ondas",
+      "Colher"
+    ],
+    "ingredientes": [
+      "1/2 xícara de flocão de milho",
+      "1/2 xícara de água",
+      "Sal a gosto",
+      "1 colher de sopa de azeite",
+      "2 colheres de sopa de milho verde",
+      "1/4 de tomate picado",
+      "3 azeitonas picadas"
+    ]
+  },
+  {
+    "nome": "Molho de Tomate Caseiro Básico",
+    "modo_preparo": "Bata os tomates frescos no liquidificador até obter um suco. Em uma panela, aqueça o azeite e refogue o alho e a cebola picados. Adicione o suco de tomate e tempere com sal e orégano. Deixe cozinhar em fogo baixo por 15 minutos, mexendo ocasionalmente.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Panela média",
+      "Liquidificador",
+      "Faca"
+    ],
+    "ingredientes": [
+      "5 tomates maduros",
+      "1/2 cebola pequena",
+      "2 dentes de alho",
+      "2 colheres de sopa de azeite",
+      "Sal e orégano a gosto"
+    ]
+  },
+  {
+    "nome": "Batata Sotê na Manteiga",
+    "modo_preparo": "Cozinhe as batatas com casca até ficarem macias. Descasque e corte em rodelas médias. Em uma frigideira, derreta a manteiga com azeite e adicione o alho picado. Acrescente as batatas e frite até dourarem levemente. Finalize com salsinha e sal.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Panela grande",
+      "Frigideira",
+      "Escumadeira"
+    ],
+    "ingredientes": [
+      "4 batatas médias",
+      "2 colheres de sopa de manteiga",
+      "1 colher de sopa de azeite",
+      "2 dentes de alho picados",
+      "Sal e salsinha picada a gosto"
+    ]
+  },
+  {
+    "nome": "Mousse de Maracujá Simples (4 Ingredientes)",
+    "modo_preparo": "No liquidificador, bata o leite condensado, o creme de leite e o suco concentrado de maracujá até a mistura ficar homogênea e levemente espessa. Despeje em taças e leve à geladeira por, no mínimo, 2 horas. Decore com polpa de maracujá na hora de servir.",
+    "tempo_preparo": "10 minutos (mais 120 minutos de geladeira)",
+    "equipamentos": [
+      "Liquidificador",
+      "Taças ou recipiente",
+      "Geladeira"
+    ],
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "1/2 xícara de suco concentrado de maracujá",
+      "Polpa de 1 maracujá (para decorar)"
+    ]
+  },
+  {
+    "nome": "Carne Moída Refogada com Batata",
+    "modo_preparo": "Em uma panela, refogue a cebola e o alho no óleo. Adicione a carne moída e frite até secar a água. Tempere com sal, pimenta do reino e colorau. Junte o molho de tomate e as batatas picadas. Adicione água até cobrir. Cozinhe em fogo médio até as batatas ficarem macias (cerca de 20 minutos).",
+    "tempo_preparo": "35 minutos",
+    "equipamentos": [
+      "Panela média ou caçarola",
+      "Faca"
+    ],
+    "ingredientes": [
+      "500g de carne moída (patinho ou acém)",
+      "1 cebola picada",
+      "3 dentes de alho picados",
+      "2 batatas médias descascadas e picadas",
+      "1/2 xícara de molho de tomate",
+      "Óleo para refogar",
+      "Sal, pimenta do reino e colorau a gosto"
+    ]
+  },
+  {
+    "nome": "Vagem Cozida com Gergelim e Alho",
+    "modo_preparo": "Cozinhe a vagem em água e sal até ficar 'al dente' (cerca de 8 minutos). Escorra imediatamente. Em uma frigideira, aqueça o azeite e doure o alho. Adicione a vagem cozida e o gergelim. Salteie rapidamente. Acerte o sal se necessário.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Panela para cozinhar",
+      "Frigideira",
+      "Escorredor"
+    ],
+    "ingredientes": [
+      "300g de vagem holandesa ou macarrão",
+      "2 dentes de alho fatiados",
+      "2 colheres de sopa de azeite",
+      "1 colher de chá de gergelim torrado",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Bolo Simples de Fubá (Sem Glúten)",
+    "modo_preparo": "Pré-aqueça o forno a 180°C e unte uma forma. No liquidificador, bata os ovos, o açúcar, o óleo, o leite e o fubá. Despeje a massa em uma tigela e misture o fermento delicadamente. Leve ao forno por cerca de 30-40 minutos ou até dourar e passar no teste do palito.",
+    "tempo_preparo": "50 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Forma de bolo média",
+      "Forno"
+    ],
+    "ingredientes": [
+      "3 ovos grandes",
+      "1 1/2 xícara de açúcar",
+      "1/2 xícara de óleo vegetal",
+      "1 xícara de leite",
+      "2 xícaras de fubá",
+      "1 colher de sopa de fermento químico"
+    ]
+  },
+  {
+    "nome": "Feijão Preto Simples (Do Zero)",
+    "modo_preparo": "Deixe o feijão de molho por 4 horas (opcional). Cozinhe o feijão com 1,5 litro de água na panela de pressão por 30 minutos após o chiado. Em outra panela, refogue o alho picado e o bacon (opcional) no óleo. Despeje o feijão cozido (com o caldo) e tempere com sal. Deixe ferver até o caldo engrossar um pouco.",
+    "tempo_preparo": "45 minutos",
+    "equipamentos": [
+      "Panela de Pressão",
+      "Panela para temperar",
+      "Faca"
+    ],
+    "ingredientes": [
+      "500g de feijão preto",
+      "1,5 litro de água",
+      "3 dentes de alho picados",
+      "50g de bacon picado (opcional)",
+      "2 colheres de sopa de óleo",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Gelado de Abacaxi com Creme",
+    "modo_preparo": "Cozinhe o abacaxi picado com o açúcar e a água até ficar macio. Deixe esfriar. Faça um creme misturando o leite condensado, creme de leite e o leite em pó até ficar homogêneo. Em um refratário, intercale camadas de abacaxi e do creme. Leve para gelar por no mínimo 4 horas.",
+    "tempo_preparo": "20 minutos (mais 240 minutos de geladeira)",
+    "equipamentos": [
+      "Panela pequena",
+      "Batedor de arame (fouet)",
+      "Refratário"
+    ],
+    "ingredientes": [
+      "1 abacaxi picado",
+      "1/2 xícara de açúcar",
+      "1/2 xícara de água",
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "4 colheres de sopa de leite em pó"
+    ]
+  },
+  {
+    "nome": "Biscoito de Queijo Parmesão (3 Ingredientes)",
+    "modo_preparo": "Em uma tigela, misture o amido de milho, o queijo ralado e a manteiga até formar uma massa lisa e que não grude nas mãos. Faça bolinhas e achate com um garfo. Leve para assar em forno pré-aquecido a 180°C por 15 a 20 minutos, até as bordas dourarem.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Tigela",
+      "Forno"
+    ],
+    "ingredientes": [
+      "1 xícara de amido de milho",
+      "1/2 xícara de queijo parmesão ralado",
+      "100g de manteiga em temperatura ambiente"
+    ]
+  },
+  {
+    "nome": "Ovos Cozidos Perfeitos e Fáceis",
+    "modo_preparo": "Coloque os ovos em uma panela e cubra com água fria. Leve ao fogo alto. Assim que a água ferver, desligue o fogo, tampe a panela e deixe os ovos descansarem na água quente por exatamente 8 minutos (para gema firme). Transfira imediatamente para um banho de água com gelo para interromper o cozimento e facilitar a remoção da casca.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Panela pequena",
+      "Tigela com gelo",
+      "Colher"
+    ],
+    "ingredientes": [
+      "4 ovos",
+      "Água fria",
+      "Gelo",
+      "Sal a gosto (para servir)"
+    ]
+  },
+  {
+    "nome": "Salada Simples de Cenoura e Beterraba Cruas",
+    "modo_preparo": "Rale a cenoura e a beterraba cruas. Misture-as em uma tigela. Prepare o tempero misturando azeite, vinagre, sal e pimenta do reino. Despeje o molho sobre os vegetais e misture bem. Sirva imediatamente ou deixe gelar um pouco para realçar o sabor.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Ralador",
+      "Tigela",
+      "Colher"
+    ],
+    "ingredientes": [
+      "2 cenouras médias",
+      "1 beterraba média",
+      "3 colheres de sopa de azeite de oliva",
+      "1 colher de sopa de vinagre de vinho branco",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Torta de Frigideira de Banana e Aveia",
+    "modo_preparo": "Em uma tigela, amasse a banana e misture o ovo, a aveia, a canela e o fermento. Aqueça uma frigideira antiaderente untada com um fio de óleo. Despeje a massa e cozinhe em fogo baixo por cerca de 3 minutos de cada lado, até dourar. Sirva com mel (opcional).",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Frigideira antiaderente",
+      "Tigela",
+      "Garfo"
+    ],
+    "ingredientes": [
+      "1 banana nanica madura",
+      "1 ovo",
+      "3 colheres de sopa de flocos finos de aveia",
+      "1/2 colher de chá de canela",
+      "1/4 colher de chá de fermento em pó",
+      "Mel ou adoçante a gosto (opcional)"
+    ]
+  },
+  {
+    "nome": "Sopa Cremosa de Milho Verde",
+    "modo_preparo": "Bata o milho (com a água da conserva) no liquidificador. Coe e reserve. Em uma panela, refogue o alho e a cebola na manteiga. Adicione o caldo de milho coado e o leite. Tempere com sal e pimenta. Deixe ferver até engrossar levemente. Adicione o creme de leite no final, sem deixar ferver novamente. Polvilhe queijo ralado para servir.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Panela média",
+      "Peneira"
+    ],
+    "ingredientes": [
+      "1 lata de milho verde (com a água)",
+      "1/2 cebola picada",
+      "1 dente de alho",
+      "1 colher de sopa de manteiga",
+      "1 xícara de leite",
+      "1/2 caixa de creme de leite",
+      "Sal, pimenta do reino e queijo ralado a gosto"
+    ]
+  },
+  {
+    "nome": "Pão de Alho Simples de Forno",
+    "modo_preparo": "Misture a manteiga amolecida com o alho picado e a salsinha. Abra os pães franceses na horizontal (sem separar as metades) e espalhe a pasta de alho. Polvilhe com queijo muçarela ralado. Asse em forno pré-aquecido a 200°C por 10 a 15 minutos, até o pão ficar crocante e o queijo derreter.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Forno",
+      "Faca"
+    ],
+    "ingredientes": [
+      "2 pães franceses",
+      "3 colheres de sopa de manteiga sem sal",
+      "2 dentes de alho amassados",
+      "1/4 xícara de queijo muçarela ralado",
+      "Salsinha picada a gosto"
+    ]
+  },
+  {
+    "nome": "Torta de Limão Rápida na Travessa",
+    "modo_preparo": "Bata o leite condensado, o creme de leite e o suco de limão no liquidificador até engrossar. Despeje sobre uma camada de biscoito triturado na travessa. Leve à geladeira por 3 horas. Decore com raspas de limão.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Travessa"
+    ],
+    "ingredientes": [
+      "1 lata de Leite Condensado",
+      "1 caixa de Creme de Leite",
+      "1 xícara de Suco de Limão",
+      "200g de Biscoito Maisena triturado",
+      "3 colheres de sopa de Manteiga derretida"
+    ]
+  },
+  {
+    "nome": "Arroz à Grega Simples",
+    "modo_preparo": "Prepare o arroz normalmente. Em uma panela separada, refogue a cebola no azeite. Adicione o pimentão, a cenoura e as ervilhas, e refogue por 5 minutos. Misture este refogado ao arroz cozido e adicione as uvas-passas. Sirva quente.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Panela",
+      "Colher de pau"
+    ],
+    "ingredientes": [
+      "2 xícaras de Arroz cozido",
+      "1/2 Cenoura picada em cubos pequenos",
+      "1/2 Pimentão picado",
+      "1/2 xícara de Ervilha (fresca ou congelada)",
+      "1/4 xícara de Uva-passa branca",
+      "1/2 Cebola picada",
+      "Azeite, sal e pimenta a gosto"
+    ]
+  },
+  {
+    "nome": "Filé de Peixe Empanado na Farinha de Milho (Frito)",
+    "modo_preparo": "Tempere os filés de peixe com sal e limão. Passe cada filé primeiro no ovo batido e depois na farinha de milho (fubá). Frite em óleo quente até dourar dos dois lados. Escorra em papel toalha.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Tigelas",
+      "Frigideira funda",
+      "Escorredor"
+    ],
+    "ingredientes": [
+      "4 filés de Tilápia ou Saint Peter",
+      "Suco de 1 Limão",
+      "Sal e Pimenta do Reino a gosto",
+      "1 Ovo batido",
+      "1 xícara de Farinha de Milho (fubá)",
+      "Óleo para fritar"
+    ]
+  },
+  {
+    "nome": "Creme de Abóbora com Gengibre",
+    "modo_preparo": "Cozinhe a abóbora até ficar macia. Refogue o alho e o gengibre no azeite. Bata a abóbora cozida, o refogado e a água do cozimento no liquidificador. Volte para a panela, adicione o creme de leite, acerte o sal e deixe ferver. Sirva com cheiro verde.",
+    "tempo_preparo": "35 minutos",
+    "equipamentos": [
+      "Panela de pressão ou comum",
+      "Liquidificador"
+    ],
+    "ingredientes": [
+      "500g de Abóbora Cabotiá descascada",
+      "1 colher de chá de Gengibre ralado",
+      "2 dentes de Alho picados",
+      "1/2 caixa de Creme de Leite (opcional)",
+      "Azeite, Sal, Pimenta do reino e Água"
+    ]
+  },
+  {
+    "nome": "Bolo de Laranja de Liquidificador",
+    "modo_preparo": "Bata no liquidificador os ovos, o óleo, o açúcar e a laranja picada. Transfira para uma tigela e misture a farinha e o fermento. Despeje em forma untada e asse em forno médio por 40 minutos.",
+    "tempo_preparo": "50 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Forma de bolo",
+      "Forno"
+    ],
+    "ingredientes": [
+      "1 Laranja média (com casca, sem sementes)",
+      "3 Ovos",
+      "1 xícara de Óleo",
+      "2 xícaras de Açúcar",
+      "2 xícaras de Farinha de Trigo",
+      "1 colher de sopa de Fermento em pó"
+    ]
+  },
+  {
+    "nome": "Salada de Macarrão com Atum",
+    "modo_preparo": "Cozinhe o macarrão e escorra. Em uma tigela grande, misture o macarrão, o atum, a ervilha, o milho, a cenoura ralada e a azeitona. Adicione a maionese, o cheiro verde e misture bem. Leve para gelar antes de servir.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Panela",
+      "Escorredor",
+      "Tigela grande"
+    ],
+    "ingredientes": [
+      "250g de Macarrão tipo parafuso",
+      "2 latas de Atum sólido em óleo (escorrido)",
+      "1 lata de Milho e Ervilha",
+      "1 Cenoura ralada",
+      "1/2 pote de Maionese",
+      "Azeitonas picadas e Cheiro Verde a gosto"
+    ]
+  },
+  {
+    "nome": "Pão Caseiro Simples (Sem Sova)",
+    "modo_preparo": "Misture o fermento, água morna e açúcar. Adicione o óleo, sal e, por último, a farinha, misturando com uma colher. Deixe a massa crescer por 1 hora. Coloque na forma untada e asse até dourar.",
+    "tempo_preparo": "120 minutos (incluindo crescimento)",
+    "equipamentos": [
+      "Tigela grande",
+      "Forma de pão",
+      "Forno"
+    ],
+    "ingredientes": [
+      "3 xícaras de Farinha de Trigo",
+      "1 envelope de Fermento Biológico Seco",
+      "1 colher de chá de Sal",
+      "1/2 xícara de Óleo",
+      "1 e 1/2 xícara de Água morna",
+      "2 colheres de sopa de Açúcar"
+    ]
+  },
+  {
+    "nome": "Carne de Panela com Batatas",
+    "modo_preparo": "Tempere a carne. Sele na panela de pressão. Adicione cebola, alho e temperos. Cubra com água ou caldo. Cozinhe por 30 minutos após pegar pressão. Adicione as batatas e cozinhe por mais 10 minutos (sem pressão, ou até as batatas ficarem macias).",
+    "tempo_preparo": "60 minutos",
+    "equipamentos": [
+      "Panela de Pressão",
+      "Faca"
+    ],
+    "ingredientes": [
+      "1 kg de Acém ou Paleta em cubos",
+      "5 Batatas médias descascadas",
+      "1 Cebola picada",
+      "3 dentes de Alho picados",
+      "Sal, Pimenta, Louro e Páprica a gosto",
+      "Azeite ou Óleo"
+    ]
+  },
+  {
+    "nome": "Bavaroise de Coco (Mousse)",
+    "modo_preparo": "Dissolva a gelatina conforme a embalagem. No liquidificador, bata o leite condensado, o creme de leite, o leite de coco e o coco ralado. Adicione a gelatina dissolvida e bata rapidamente. Coloque em um refratário e gele por 4 horas.",
+    "tempo_preparo": "20 minutos (mais 4 horas de geladeira)",
+    "equipamentos": [
+      "Liquidificador",
+      "Forma ou refratário"
+    ],
+    "ingredientes": [
+      "1 lata de Leite Condensado",
+      "1 caixa de Creme de Leite",
+      "1 vidro de Leite de Coco (200ml)",
+      "1 pacote de Gelatina incolor",
+      "100g de Coco Ralado"
+    ]
+  },
+  {
+    "nome": "Refogado de Quiabo com Camarão",
+    "modo_preparo": "Corte o quiabo em rodelas e reserve. Tempere o camarão. Em uma panela, refogue o alho e a cebola, adicione o quiabo e frite até secar a baba. Junte o camarão e cozinhe até ficar rosado. Adicione o tomate picado e acerte o sal.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Panela grande"
+    ],
+    "ingredientes": [
+      "300g de Camarão limpo",
+      "20 quiabos médios",
+      "1 Tomate picado",
+      "1/2 Cebola picada",
+      "2 dentes de Alho",
+      "Azeite, Sal e Pimenta a gosto"
+    ]
+  },
+  {
+    "nome": "Tiramisu de Travessa (Versão Rápida)",
+    "modo_preparo": "Misture o café com o açúcar. Em uma tigela, bata o creme de leite fresco e o açúcar de confeiteiro até ponto de chantilly. Umedeça os biscoitos champagne no café e faça uma camada no fundo da travessa. Cubra com o creme. Repita as camadas. Polvilhe cacau em pó e leve para gelar.",
+    "tempo_preparo": "20 minutos (mais 2 horas de geladeira)",
+    "equipamentos": [
+      "Batedeira ou Fouet",
+      "Travessa"
+    ],
+    "ingredientes": [
+      "250g de Biscoito Champagne",
+      "400ml de Creme de Leite Fresco gelado",
+      "1/2 xícara de Açúcar de Confeiteiro",
+      "1 xícara de Café forte e frio",
+      "Cacau em pó para polvilhar"
+    ]
+  },
+  {
+    "nome": "Feijão Branco com Calabresa",
+    "modo_preparo": "Cozinhe o feijão branco (deixado de molho) até ficar macio. Em uma panela, frite a calabresa em rodelas. Junte alho e cebola picados. Adicione o feijão cozido, um pouco do caldo, folha de louro e temperos. Deixe apurar o sabor.",
+    "tempo_preparo": "90 minutos",
+    "equipamentos": [
+      "Panela de pressão",
+      "Panela comum"
+    ],
+    "ingredientes": [
+      "500g de Feijão Branco",
+      "2 Gomos de Linguiça Calabresa defumada",
+      "1 Cebola média",
+      "3 dentes de Alho",
+      "Folha de Louro, Sal e Pimenta do Reino"
+    ]
+  },
+  {
+    "nome": "Quibe de Bandeja Assado",
+    "modo_preparo": "Hidrate o trigo para quibe. Misture com a carne moída, a cebola ralada, a hortelã picada, o sal e a pimenta. Amasse bem. Espalhe metade da massa em uma assadeira, coloque o recheio (queijo ou carne refogada), cubra com o restante da massa. Faça cortes em losango e regue com azeite. Asse por 40 minutos.",
+    "tempo_preparo": "60 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Tigela grande",
+      "Forno"
+    ],
+    "ingredientes": [
+      "500g de Carne Moída (patinho)",
+      "250g de Trigo para Quibe",
+      "1 Cebola ralada",
+      "Hortelã picada a gosto",
+      "Sal e Azeite",
+      "Recheio a gosto (ex: Muçarela ou carne refogada)"
+    ]
+  },
+  {
+    "nome": "Molho Rosé Caseiro",
+    "modo_preparo": "Em uma tigela, misture a maionese e o ketchup. Adicione o conhaque (opcional, para dar um toque especial), o sal e a pimenta. Misture bem até obter uma cor e textura uniformes. Sirva gelado com saladas ou camarões.",
+    "tempo_preparo": "5 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Batedor de arame (fouet)"
+    ],
+    "ingredientes": [
+      "1 xícara de Maionese",
+      "1/2 xícara de Ketchup",
+      "1 colher de chá de Conhaque (opcional)",
+      "Sal e Pimenta do Reino a gosto"
+    ]
+  },
+  {
+    "nome": "Ovos Gratinados com Molho de Tomate",
+    "modo_preparo": "Prepare um molho de tomate caseiro simples. Cozinhe os ovos (cerca de 8 minutos) e descasque. Em um refratário, coloque o molho, os ovos cozidos cortados ao meio e cubra com queijo ralado e muçarela. Leve ao forno para gratinar.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Panela",
+      "Refratário",
+      "Forno"
+    ],
+    "ingredientes": [
+      "6 Ovos cozidos",
+      "300ml de Molho de Tomate caseiro",
+      "1/2 xícara de Queijo Parmesão ralado",
+      "100g de Queijo Muçarela fatiado",
+      "Azeite e Manjericão"
+    ]
+  },
+  {
+    "nome": "Pizza de Liquidificador (Massa Fina)",
+    "modo_preparo": "Bata no liquidificador os ovos, o óleo, o leite, o sal e o fermento. Adicione a farinha aos poucos, batendo até misturar. Despeje em uma forma de pizza untada. Pré-asse por 10 minutos. Adicione o molho, muçarela e o recheio de sua preferência. Asse até o queijo derreter.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Forma de pizza",
+      "Forno"
+    ],
+    "ingredientes": [
+      "2 Ovos",
+      "1 xícara de Leite",
+      "1/2 xícara de Óleo",
+      "2 xícaras de Farinha de Trigo",
+      "1 colher de sopa de Fermento em pó",
+      "Sal a gosto, Molho de Tomate, Queijo Muçarela e Recheio"
+    ]
+  },
+  {
+    "nome": "Pão Doce de Coco",
+    "modo_preparo": "Prepare a massa básica de pão. Depois de crescer, abra a massa e espalhe a mistura de coco (coco ralado, leite e açúcar). Enrole como rocambole, corte as fatias e coloque-as lado a lado em uma forma redonda. Deixe crescer novamente e asse. Regue com uma calda simples de açúcar e água.",
+    "tempo_preparo": "150 minutos (incluindo crescimento)",
+    "equipamentos": [
+      "Tigela",
+      "Rolo de massa",
+      "Forma redonda"
+    ],
+    "ingredientes": [
+      "500g de Farinha de Trigo",
+      "10g de Fermento Biológico Seco",
+      "1/2 xícara de Leite",
+      "1/2 xícara de Açúcar",
+      "1 Ovo",
+      "Manteiga para a massa",
+      "Recheio: 100g Coco ralado e Leite Condensado a gosto"
+    ]
+  },
+  {
+    "nome": "Escondidinho de Mandioca com Carne Seca",
+    "modo_preparo": "Cozinhe a mandioca e amasse (ou bata no processador) com manteiga e creme de leite, formando um purê. Refogue a carne seca dessalgada com cebola e alho. Em um refratário, faça uma camada de carne, cubra com o purê de mandioca e polvilhe queijo. Gratine no forno.",
+    "tempo_preparo": "70 minutos",
+    "equipamentos": [
+      "Panela",
+      "Processador ou Amassador",
+      "Refratário",
+      "Forno"
+    ],
+    "ingredientes": [
+      "1 kg de Mandioca cozida",
+      "300g de Carne Seca dessalgada e desfiada",
+      "1/2 pote de Creme de Leite",
+      "Manteiga, Sal e Pimenta",
+      "Queijo Parmesão ralado"
+    ]
+  },
+  {
+    "nome": "Torta de Maçã Invertida (Tatin Rápida)",
+    "modo_preparo": "Em uma forma, derreta a manteiga e o açúcar, formando uma calda de caramelo. Arrume as fatias de maçã sobre o caramelo. Cubra com a massa folhada pronta (ou massa podre). Asse por 30 minutos. Desenforme ainda morna, virando a torta.",
+    "tempo_preparo": "45 minutos",
+    "equipamentos": [
+      "Forma redonda de fundo removível",
+      "Forno"
+    ],
+    "ingredientes": [
+      "3 Maçãs grandes (fatiadas)",
+      "1/2 xícara de Açúcar",
+      "2 colheres de sopa de Manteiga",
+      "1 pacote de Massa Folhada pronta (ou massa podre)"
+    ]
+  },
+  {
+    "nome": "Salada Russa (Olivier)",
+    "modo_preparo": "Cozinhe a batata e a cenoura em cubos pequenos. Cozinhe as ervilhas. Misture os legumes com maionese, ovo cozido picado e azeitonas. Tempere com sal e pimenta. Sirva gelada.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Panelas",
+      "Tigela"
+    ],
+    "ingredientes": [
+      "3 Batatas médias",
+      "2 Cenouras médias",
+      "1/2 xícara de Ervilha fresca ou congelada",
+      "2 Ovos cozidos picados",
+      "1/2 pote de Maionese",
+      "Azeitonas picadas a gosto"
+    ]
+  },
+  {
+    "nome": "Pimentão Recheado com Arroz e Carne",
+    "modo_preparo": "Corte a tampa dos pimentões e retire as sementes. Misture a carne moída crua com arroz cozido, tomate, cebola, e temperos. Recheie os pimentões. Coloque em uma assadeira com um pouco de água no fundo. Asse por 40-50 minutos.",
+    "tempo_preparo": "60 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Forno"
+    ],
+    "ingredientes": [
+      "4 Pimentões grandes (cores variadas)",
+      "300g de Carne Moída",
+      "1 xícara de Arroz cozido",
+      "1 Tomate picado",
+      "1/2 Cebola, Alho, Sal e Pimenta"
+    ]
+  },
+  {
+    "nome": "Bolo de Chocolate Molhadinho",
+    "modo_preparo": "Misture os ingredientes secos. Em outra tigela, misture os líquidos (ovos, óleo, leite). Junte as duas misturas. Despeje a massa em forma untada e asse. Para a calda, ferva o leite, açúcar e chocolate. Fure o bolo e regue-o ainda quente.",
+    "tempo_preparo": "50 minutos",
+    "equipamentos": [
+      "Forma",
+      "Batedor de arame (fouet)",
+      "Forno"
+    ],
+    "ingredientes": [
+      "2 xícaras de Farinha de Trigo",
+      "1 xícara de Cacau em pó",
+      "2 Ovos",
+      "1 xícara de Leite",
+      "2 xícaras de Açúcar",
+      "1 colher de sopa de Fermento",
+      "Calda: Leite, Açúcar e Chocolate em pó"
+    ]
+  },
+  {
+    "nome": "Nhoque de Batata Simples com Molho",
+    "modo_preparo": "Amasse as batatas cozidas ainda quentes. Misture com a farinha, ovo e sal (até desgrudar das mãos). Enrole a massa e corte os nhoques. Cozinhe em água fervente até boiarem. Sirva com seu molho de tomate preferido.",
+    "tempo_preparo": "50 minutos",
+    "equipamentos": [
+      "Panela",
+      "Amassador de batatas",
+      "Faca"
+    ],
+    "ingredientes": [
+      "1 kg de Batata cozida e amassada",
+      "1 e 1/2 xícara de Farinha de Trigo",
+      "1 Ovo",
+      "Sal a gosto",
+      "Molho de Tomate"
+    ]
+  },
+  {
+    "nome": "Abobrinha Recheada com Queijo e Tomate",
+    "modo_preparo": "Corte as abobrinhas ao meio no sentido do comprimento e retire a polpa. Misture a polpa picada com queijo muçarela, tomate picado, orégano, sal e azeite. Recheie as abobrinhas, polvilhe queijo ralado e asse por 20 minutos.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Forno"
+    ],
+    "ingredientes": [
+      "3 Abobrinhas italianas médias",
+      "150g de Queijo Muçarela picado",
+      "1 Tomate picado sem sementes",
+      "Queijo Parmesão ralado",
+      "Azeite, Sal e Orégano"
+    ]
+  },
+  {
+    "nome": "Pudim de Pão Velho",
+    "modo_preparo": "Ferva o leite. Pique o pão e misture com o leite quente, deixando amolecer. Bata a mistura no liquidificador com os ovos, açúcar e especiarias. Despeje em forma caramelizada e asse em banho-maria por cerca de 1 hora.",
+    "tempo_preparo": "90 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Forma de pudim",
+      "Forno"
+    ],
+    "ingredientes": [
+      "4 Pães franceses amanhecidos",
+      "2 xícaras de Leite",
+      "3 Ovos",
+      "1 xícara de Açúcar",
+      "1 colher de chá de Canela (opcional)",
+      "Caramelo (açúcar e água)"
+    ]
+  },
+  {
+    "nome": "Vatapá Simples de Liquidificador",
+    "modo_preparo": "Bata no liquidificador o pão amanhecido, leite de coco, castanhas, amendoim, gengibre e azeite de dendê. Leve a mistura ao fogo brando, mexendo até engrossar. Adicione camarões ou frango desfiado se desejar. Acerte o sal.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Panela"
+    ],
+    "ingredientes": [
+      "3 Pães franceses amanhecidos",
+      "200ml de Leite de Coco",
+      "1/2 xícara de Castanha de Caju",
+      "1/2 xícara de Amendoim torrado",
+      "1 colher de chá de Gengibre ralado",
+      "2 colheres de sopa de Azeite de Dendê"
+    ]
+  },
+  {
+    "nome": "Cachorro Quente de Forno",
+    "modo_preparo": "Prepare o molho de salsicha simples. Em um refratário, abra os pães de hot dog. Recheie com o molho. Cubra com bastante muçarela ralada e batata palha (opcional). Leve ao forno apenas para gratinar o queijo.",
+    "tempo_preparo": "35 minutos",
+    "equipamentos": [
+      "Refratário",
+      "Forno"
+    ],
+    "ingredientes": [
+      "6 Pães de Cachorro Quente",
+      "1 kg de Salsicha cozida e picada",
+      "Molho de Tomate",
+      "1 Cebola e 2 dentes de Alho",
+      "200g de Queijo Muçarela ralado"
+    ]
+  },
+  {
+    "nome": "Bolo de Milho Verde Cozido",
+    "modo_preparo": "Bata no liquidificador o milho verde (com a água), ovos, açúcar, óleo e leite. Despeje em uma tigela e misture a farinha e o fermento. Asse em forma untada por cerca de 45 minutos em forno médio.",
+    "tempo_preparo": "60 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Forma de bolo",
+      "Forno"
+    ],
+    "ingredientes": [
+      "4 Espigas de Milho Verde (ou 2 latas)",
+      "3 Ovos",
+      "1 e 1/2 xícara de Açúcar",
+      "1/2 xícara de Óleo",
+      "1/2 xícara de Leite",
+      "1 xícara de Farinha de Trigo",
+      "1 colher de sopa de Fermento em pó"
+    ]
+  },
+  {
+    "nome": "Frango Xadrez Caseiro",
+    "modo_preparo": "Corte o frango em cubos e tempere. Frite o frango. Em outra panela, refogue o pimentão e a cebola em cubos grandes. Adicione o frango frito, o amendoim torrado e o molho (shoyu, água, amido de milho, açúcar). Cozinhe até engrossar.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Wok ou frigideira grande"
+    ],
+    "ingredientes": [
+      "500g de Peito de Frango em cubos",
+      "1 Pimentão Vermelho",
+      "1 Pimentão Verde",
+      "1 Cebola grande em pétalas",
+      "1/2 xícara de Amendoim torrado",
+      "Molho: Shoyu, Amido de Milho e Água"
+    ]
+  },
+  {
+    "nome": "Salada de Cenoura Ralada com Passas",
+    "modo_preparo": "Rale as cenouras no ralo grosso. Misture as cenouras, as uvas passas e o milho. Prepare um molho simples com azeite, limão, sal e um toque de açúcar (ou mel). Misture o molho e leve à geladeira por 30 minutos antes de servir.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Ralador",
+      "Tigela"
+    ],
+    "ingredientes": [
+      "4 Cenouras médias",
+      "1/2 xícara de Uvas Passas brancas",
+      "1 lata de Milho verde escorrido",
+      "3 colheres de sopa de Azeite",
+      "Suco de 1 Limão",
+      "Sal e 1 colher de chá de Açúcar"
+    ]
+  },
+  {
+    "nome": "Coxinha de Frango (Massa Cozida)",
+    "modo_preparo": "Faça um caldo com o frango. Cozinhe a farinha de trigo no caldo até formar uma massa homogênea. Deixe esfriar. Abra porções da massa, recheie com o frango desfiado temperado, modele em formato de coxinha. Passe no ovo e farinha de rosca. Frite em óleo quente.",
+    "tempo_preparo": "90 minutos",
+    "equipamentos": [
+      "Panela",
+      "Tigelas",
+      "Frigideira funda"
+    ],
+    "ingredientes": [
+      "1 Peito de Frango",
+      "2 xícaras de Farinha de Trigo",
+      "2 xícaras de Caldo do Cozimento do Frango",
+      "1 colher de sopa de Manteiga",
+      "1 Ovo e Farinha de Rosca para empanar"
+    ]
+  },
+  {
+    "nome": "Pão de Mel Caseiro",
+    "modo_preparo": "Misture os ingredientes secos (farinha, açúcar, chocolate, especiarias). Adicione mel, leite e ovos. Misture bem. Asse em forma untada e corte em quadrados. Banhe no chocolate derretido.",
+    "tempo_preparo": "60 minutos",
+    "equipamentos": [
+      "Forma retangular",
+      "Forno",
+      "Banho Maria (para o chocolate)"
+    ],
+    "ingredientes": [
+      "2 xícaras de Farinha de Trigo",
+      "1 xícara de Leite",
+      "1/2 xícara de Mel",
+      "2 Ovos",
+      "Chocolate em pó, Bicarbonato e Especiarias (canela, cravo)",
+      "500g de Chocolate Meio Amargo para cobertura"
+    ]
+  },
+  {
+    "nome": "Torta de Palmito (Massa Podre)",
+    "modo_preparo": "Misture a farinha, a gema e a margarina até formar uma massa homogênea. Forre uma forma. Prepare o recheio de palmito cremoso (refogado com farinha e leite). Despeje o recheio na massa e cubra com o restante da massa ou com queijo ralado. Asse por 40 minutos.",
+    "tempo_preparo": "60 minutos",
+    "equipamentos": [
+      "Forma de fundo removível",
+      "Forno"
+    ],
+    "ingredientes": [
+      "2 xícaras de Farinha de Trigo",
+      "150g de Margarina gelada",
+      "1 Gema",
+      "Recheio: 2 vidros de Palmito picado, Creme de Leite, Cebola, Alho"
+    ]
+  },
+  {
+    "nome": "Sopa de Cenoura com Gengibre",
+    "modo_preparo": "Refogue alho e cebola. Adicione as cenouras picadas e o gengibre. Cubra com caldo de legumes ou água. Cozinhe até as cenouras ficarem macias. Bata tudo no liquidificador. Volte para a panela, acerte o sal e sirva com um fio de azeite.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Panela",
+      "Liquidificador"
+    ],
+    "ingredientes": [
+      "4 Cenouras grandes",
+      "1 pedaço de Gengibre (3cm)",
+      "1 Cebola e 2 dentes de Alho",
+      "Caldo de Legumes (ou água)",
+      "Azeite e Sal"
+    ]
+  },
+  {
+    "nome": "Cuscuz Doce de Tapioca",
+    "modo_preparo": "Misture a tapioca granulada com o leite fervente. Adicione o açúcar, o leite condensado e o coco ralado. Coloque em uma forma e leve para gelar até firmar. Desenforme e sirva com mais leite condensado e coco ralado por cima.",
+    "tempo_preparo": "10 minutos (mais 4 horas de geladeira)",
+    "equipamentos": [
+      "Tigela",
+      "Forma redonda"
+    ],
+    "ingredientes": [
+      "500g de Tapioca Granulada",
+      "1 litro de Leite fervente",
+      "1 lata de Leite Condensado",
+      "1/2 xícara de Açúcar",
+      "200g de Coco Ralado"
+    ]
+  },
+  {
+    "nome": "Carne Assada na Cerveja",
+    "modo_preparo": "Tempere a peça de carne (ex: lagarto ou paleta) com alho, sal e pimenta. Sele a carne na panela. Transfira para uma assadeira e adicione cebolas em rodelas e a lata de cerveja. Cubra com papel alumínio e asse em forno médio por 2 horas. Retire o papel e deixe dourar.",
+    "tempo_preparo": "150 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Panela (para selar)",
+      "Forno"
+    ],
+    "ingredientes": [
+      "1 kg de Carne para assar (Lagarto)",
+      "1 lata de Cerveja Pilsen",
+      "2 Cebolas grandes em rodelas",
+      "4 dentes de Alho picados",
+      "Sal e Louro"
+    ]
+  },
+  {
+    "nome": "Berinjela à Parmegiana (Assada)",
+    "modo_preparo": "Corte a berinjela em fatias e deixe de molho em água e sal por 10 minutos. Seque as fatias. Em um refratário, intercale camadas de berinjela, molho de tomate, muçarela e parmesão. Asse em forno médio por 25 minutos, até o queijo gratinar.",
+    "tempo_preparo": "45 minutos",
+    "equipamentos": [
+      "Refratário",
+      "Forno"
+    ],
+    "ingredientes": [
+      "2 Berinjelas grandes",
+      "500ml de Molho de Tomate",
+      "200g de Queijo Muçarela fatiado",
+      "Queijo Parmesão ralado",
+      "Azeite e Manjericão"
+    ]
+  },
+  {
+    "nome": "Misto Quente na Air Fryer",
+    "modo_preparo": "Passe manteiga nas duas faces externas do pão de forma. Recheie com queijo e presunto. Coloque na Air Fryer a 180°C por 5 a 7 minutos, virando na metade do tempo, até ficar dourado e crocante.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Air Fryer"
+    ],
+    "ingredientes": [
+      "2 fatias de Pão de Forma",
+      "1 fatia de Queijo Muçarela",
+      "1 fatia de Presunto",
+      "Manteiga ou Margarina"
+    ]
+  },
+  {
+    "nome": "Doce de Leite Caseiro na Pressão (Lata)",
+    "modo_preparo": "Retire o rótulo da lata de leite condensado. Coloque a lata fechada na panela de pressão, cobrindo com água. Cozinhe por 40 minutos após a panela chiar. Deixe esfriar completamente antes de abrir a lata.",
+    "tempo_preparo": "50 minutos (mais tempo de resfriamento)",
+    "equipamentos": [
+      "Panela de Pressão"
+    ],
+    "ingredientes": [
+      "1 lata de Leite Condensado"
+    ]
+  },
+  {
+    "nome": "Molho Tártaro Simples",
+    "modo_preparo": "Pique finamente a cebola, a salsa e o picles. Misture todos os ingredientes (maionese, iogurte, mostarda, picles e temperos) em uma tigela. Leve para gelar por 30 minutos para incorporar os sabores. Ideal para peixes e frituras.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Faca"
+    ],
+    "ingredientes": [
+      "1 xícara de Maionese",
+      "2 colheres de sopa de Iogurte Natural (ou creme de leite)",
+      "1 colher de sopa de Picles picado",
+      "1 colher de chá de Mostarda Dijon",
+      "1 colher de sopa de Cebola picada",
+      "Salsa e Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Bolinho de Arroz Simples",
+    "modo_preparo": "Misture o arroz cozido e amassado com o queijo ralado, ovo, farinha de trigo e cheiro verde. Molde bolinhas. Se necessário, passe em farinha de rosca. Frite em óleo quente até dourar e escorra.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Frigideira"
+    ],
+    "ingredientes": [
+      "2 xícaras de Arroz cozido e frio",
+      "1 Ovo",
+      "1/2 xícara de Queijo Parmesão ralado",
+      "2 colheres de sopa de Farinha de Trigo",
+      "Cheiro Verde picado",
+      "Óleo para fritar"
+    ]
+  },
+  {
+    "nome": "Rocambole de Carne Moída",
+    "modo_preparo": "Misture a carne moída com farinha de rosca, ovo e temperos. Abra a massa em formato retangular sobre papel filme. Recheie com presunto, queijo e cenoura. Enrole com a ajuda do papel filme, formando um rocambole. Asse por 30-40 minutos.",
+    "tempo_preparo": "60 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Papel filme",
+      "Forno"
+    ],
+    "ingredientes": [
+      "500g de Carne Moída",
+      "1/2 xícara de Farinha de Rosca",
+      "1 Ovo",
+      "Sal, Pimenta e Cheiro Verde",
+      "Recheio: Queijo Muçarela, Presunto e Cenoura ralada"
+    ]
+  },
+  {
+    "nome": "Manjar Branco com Calda de Ameixa",
+    "modo_preparo": "Misture o amido de milho com um pouco de leite. Ferva o restante do leite com o leite de coco, açúcar e o amido dissolvido, mexendo até engrossar. Despeje em forma caramelizada ou untada com água e leve para gelar. Para a calda, ferva as ameixas com água e açúcar até reduzir.",
+    "tempo_preparo": "40 minutos (mais 4 horas de geladeira)",
+    "equipamentos": [
+      "Panela",
+      "Forma de pudim"
+    ],
+    "ingredientes": [
+      "1 litro de Leite",
+      "1 vidro de Leite de Coco",
+      "6 colheres de sopa de Amido de Milho",
+      "1 xícara de Açúcar",
+      "Calda: 1 xícara de Ameixas secas, Água e Açúcar"
+    ]
+  },
+  {
+    "nome": "Pastel Assado de Carne",
+    "modo_preparo": "Prepare o recheio de carne moída refogada e fria. Abra a massa de pastel (comprada pronta) e recheie. Feche bem as bordas com um garfo. Pincele gema e polvilhe orégano. Asse em forno médio por 20 minutos ou até dourar.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Forno"
+    ],
+    "ingredientes": [
+      "1 pacote de Massa de Pastel pronta (tipo de forno)",
+      "300g de Carne Moída refogada (fria)",
+      "1 Ovo (para pincelar)",
+      "Orégano"
+    ]
+  },
+  {
+    "nome": "Creme de Brócolis Simples",
+    "modo_preparo": "Cozinhe o brócolis. Refogue o alho e a cebola na manteiga. Bata o brócolis cozido e um pouco do caldo no liquidificador. Volte para a panela, adicione o creme de leite e acerte o sal e a pimenta. Deixe ferver e sirva com croutons.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Panela",
+      "Liquidificador"
+    ],
+    "ingredientes": [
+      "1 maço de Brócolis (somente os floretes)",
+      "1/2 Cebola picada",
+      "1 dente de Alho",
+      "1/2 caixa de Creme de Leite",
+      "Manteiga e Sal"
+    ]
+  },
+  {
+    "nome": "Salada de Repolho Agridoce",
+    "modo_preparo": "Corte o repolho e a cenoura bem finos. Misture o repolho e a cenoura. Prepare o molho com vinagre, azeite, sal, pimenta e açúcar (ou mel). Misture o molho nos vegetais e deixe marinar por pelo menos 15 minutos na geladeira.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Faca"
+    ],
+    "ingredientes": [
+      "1/2 Repolho pequeno (branco ou roxo)",
+      "1 Cenoura ralada",
+      "3 colheres de sopa de Vinagre de maçã",
+      "3 colheres de sopa de Azeite",
+      "1 colher de chá de Açúcar",
+      "Sal e Pimenta do Reino"
+    ]
+  },
+  {
+    "nome": "Frango à Parmegiana Rápido",
+    "modo_preparo": "Tempere e frite os filés de frango (ou use filés empanados prontos). Coloque os filés em uma assadeira. Cubra com molho de tomate, fatias de muçarela e orégano. Leve ao forno ou Air Fryer por 10 minutos, apenas para o queijo derreter.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Frigideira",
+      "Assadeira ou refratário"
+    ],
+    "ingredientes": [
+      "4 Filés de Frango empanados",
+      "300ml de Molho de Tomate",
+      "150g de Queijo Muçarela fatiado",
+      "Queijo Parmesão ralado",
+      "Orégano"
+    ]
+  },
+  {
+    "nome": "Torta de Abacaxi Invertida",
+    "modo_preparo": "Em uma forma, faça o caramelo com açúcar. Arrume as rodelas de abacaxi no fundo da forma. Despeje a massa de bolo simples (misturando farinha, ovos, leite, óleo e açúcar). Asse por 35 minutos. Desenforme quente ou morna.",
+    "tempo_preparo": "50 minutos",
+    "equipamentos": [
+      "Forma redonda",
+      "Forno"
+    ],
+    "ingredientes": [
+      "1 e 1/2 xícara de Açúcar (para o bolo e caramelo)",
+      "5 rodelas de Abacaxi em calda",
+      "2 Ovos",
+      "1/2 xícara de Leite",
+      "1/4 xícara de Óleo",
+      "2 xícaras de Farinha de Trigo",
+      "1 colher de sopa de Fermento"
+    ]
+  },
+  {
+    "nome": "Espetinho de Morango com Chocolate (Fondue Rápido)",
+    "modo_preparo": "Derreta o chocolate em banho-maria ou micro-ondas. Lave e seque bem os morangos. Espete os morangos em palitos. Banhe cada morango no chocolate derretido e coloque-os sobre papel manteiga para secar. Leve à geladeira para o chocolate endurecer.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Palitos de churrasco",
+      "Panela (ou micro-ondas)",
+      "Papel manteiga"
+    ],
+    "ingredientes": [
+      "1 caixa de Morangos frescos",
+      "200g de Chocolate ao Leite ou Meio Amargo"
+    ]
+  },
+  {
+    "nome": "Macarrão Cremoso de Panela de Pressão",
+    "modo_preparo": "Na panela de pressão, coloque o macarrão, o creme de leite, o molho de tomate, água, alho, cebola, temperos, presunto e milho. Tampe e, após pegar pressão, cozinhe por apenas 3 minutos. Desligue, espere a pressão sair e misture bem. Adicione queijo muçarela ralado e sirva.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Panela de Pressão"
+    ],
+    "ingredientes": [
+      "250g de Macarrão tipo penne ou parafuso",
+      "1 caixa de Creme de Leite",
+      "1 sachê de Molho de Tomate",
+      "250ml de Água",
+      "100g de Presunto picado",
+      "1/2 xícara de Muçarela ralada"
+    ]
   }
 ]
