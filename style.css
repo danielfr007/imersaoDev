@@ -129,6 +129,7 @@ article p {
     font-size: 1rem; /* Tamanho da fonte */
     margin-bottom: 0.5rem; /* Margem inferior */
     color: var(--secondary-color); /* Cor do texto */
+    white-space: pre-line; /*Faz com que o \n quebre a linha*/
 }
 
 article p strong {
@@ -180,6 +181,9 @@ article a:hover {
 .footer-links a:hover {
     color: var(--accent-color); /* Muda a cor do link ao passar o mouse (variável não definida) */
 }
+
+
+
 
 @media (max-width: 768px) {
     header { /* Estilos para telas com largura máxima de 768px */

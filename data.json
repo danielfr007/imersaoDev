@@ -1,302 +1,1032 @@
 [
   {
-    "nome": "Go (Golang)",
-    "descricao": "Linguagem de programação compilada e concorrente desenvolvida pelo Google, focada em performance e facilidade de escrita.",
-    "data_criacao": "2009",
-    "link": "https://golang.org/",
-    "tags": [
-      "linguagem de programação",
-      "backend",
-      "concorrência",
-      "sistemas"
+    "nome": "Omelete de Queijo Rápido",
+    "modo_preparo": "Bata os ovos com sal e pimenta. Despeje em uma frigideira untada e quente. Adicione o queijo ralado e dobre a omelete quando estiver firme nas bordas. Sirva imediatamente.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Frigideira",
+      "Garfo",
+      "Tigela"
+    ],
+    "ingredientes": [
+      "3 Ovos",
+      "50g Queijo muçarela ralado",
+      "Sal a gosto",
+      "Pimenta do reino a gosto",
+      "1 colher de chá de manteiga"
     ]
   },
   {
-    "nome": "Rust",
-    "descricao": "Linguagem de programação de sistemas focada em segurança, especialmente concorrência segura e gerenciamento de memória sem garbage collection.",
-    "data_criacao": "2010",
-    "link": "https://www.rust-lang.org/",
-    "tags": [
-      "linguagem de programação",
-      "sistemas",
-      "performance",
-      "memória segura"
+    "nome": "Salada de Batata Simples",
+    "modo_preparo": "Cozinhe as batatas em cubos até ficarem macias. Escorra e deixe esfriar. Misture as batatas com a maionese, a mostarda, a cebola picada, a salsinha e tempere com sal e pimenta.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Panela",
+      "Tigela grande"
+    ],
+    "ingredientes": [
+      "5 Batatas médias",
+      "1/2 xícara de Maionese",
+      "1 colher de sopa de Mostarda",
+      "1/4 Cebola pequena picada",
+      "Salsinha picada a gosto",
+      "Sal e pimenta a gosto"
     ]
   },
   {
-    "nome": "Kotlin",
-    "descricao": "Linguagem de programação moderna e pragmática que roda na JVM e é totalmente interoperável com Java, sendo a linguagem preferida para desenvolvimento Android.",
-    "data_criacao": "2011",
-    "link": "https://kotlinlang.org/",
-    "tags": [
-      "linguagem de programação",
-      "mobile",
-      "backend",
-      "jvm"
+    "nome": "Arroz Doce Cremoso",
+    "modo_preparo": "Cozinhe o arroz com água até secar. Adicione o leite, o leite condensado e a canela em pau. Cozinhe em fogo baixo, mexendo ocasionalmente, até engrossar. Sirva quente ou frio polvilhado com canela em pó.",
+    "tempo_preparo": "45 minutos",
+    "equipamentos": [
+      "Panela média"
+    ],
+    "ingredientes": [
+      "1 xícara de Arroz",
+      "3 xícaras de Leite integral",
+      "1 lata de Leite Condensado",
+      "1 pau de Canela",
+      "Casca de 1 limão (opcional)"
     ]
   },
   {
-    "nome": "TypeScript",
-    "descricao": "Um superconjunto de JavaScript que adiciona tipagem estática opcional, compilando para JavaScript puro. Essencial para grandes aplicações front-end e back-end.",
-    "data_criacao": "2012",
-    "link": "https://www.typescriptlang.org/",
-    "tags": [
-      "linguagem de programação",
-      "tipagem estática",
-      "frontend",
-      "ferramenta"
+    "nome": "Sopa de Legumes da Vovó",
+    "modo_preparo": "Refogue o alho e a cebola no azeite. Adicione os legumes picados (cenoura, batata, chuchu) e o caldo de galinha. Cozinhe até os legumes ficarem macios. Tempere a gosto.",
+    "tempo_preparo": "40 minutos",
+    "equipamentos": [
+      "Panela funda"
+    ],
+    "ingredientes": [
+      "1 Cebola picada",
+      "2 Dentes de Alho",
+      "1 Cenoura em cubos",
+      "2 Batatas em cubos",
+      "1 Chuchu em cubos",
+      "1 litro de Caldo de legumes/galinha",
+      "Azeite e sal a gosto"
     ]
   },
   {
-    "nome": "Swift",
-    "descricao": "Linguagem de programação desenvolvida pela Apple para criar aplicativos para iOS, macOS, watchOS e tvOS, focada em segurança, performance e modernidade.",
-    "data_criacao": "2014",
-    "link": "https://www.swift.org/",
-    "tags": [
-      "linguagem de programação",
-      "mobile",
-      "apple",
-      "performance"
+    "nome": "Biscoito de Maizena (Amido de Milho)",
+    "modo_preparo": "Misture o amido de milho, a manteiga e o leite condensado até formar uma massa homogênea. Faça bolinhas e achate com um garfo. Asse em forno pré-aquecido a 180°C por cerca de 15 minutos, ou até as bordas dourarem.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Assadeira"
+    ],
+    "ingredientes": [
+      "500g Amido de milho (Maizena)",
+      "200g Manteiga sem sal",
+      "1/2 lata de Leite condensado"
     ]
   },
   {
-    "nome": "React",
-    "descricao": "Biblioteca JavaScript declarativa e baseada em componentes, usada para construir interfaces de usuário interativas, mantida pelo Meta (Facebook).",
-    "data_criacao": "2013",
-    "link": "https://reactjs.org/",
-    "tags": [
-      "biblioteca",
-      "frontend",
-      "ui/ux",
-      "componentes"
+    "nome": "Frango Grelhado com Limão",
+    "modo_preparo": "Tempere os filés de frango com sal, pimenta, alho e raspas de limão. Grelhe em uma frigideira ou chapa quente com um fio de azeite, 4 a 5 minutos de cada lado, até estarem cozidos.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Frigideira Grill ou Chapa"
+    ],
+    "ingredientes": [
+      "4 Filés de peito de frango",
+      "Suco e raspas de 1 Limão",
+      "2 Dentes de Alho amassados",
+      "Sal e pimenta do reino a gosto",
+      "Azeite"
     ]
   },
   {
-    "nome": "Vue.js",
-    "descricao": "Framework JavaScript progressivo para construção de interfaces de usuário, conhecido por sua simplicidade e facilidade de integração.",
-    "data_criacao": "2014",
-    "link": "https://vuejs.org/",
-    "tags": [
-      "framework",
-      "frontend",
-      "javascript",
-      "reatividade"
+    "nome": "Purê de Batata Clássico",
+    "modo_preparo": "Cozinhe as batatas até ficarem macias e amasse-as. Em uma panela, derreta a manteiga e adicione o leite quente e as batatas amassadas. Misture vigorosamente até obter um purê cremoso. Tempere com sal e noz-moscada.",
+    "tempo_preparo": "35 minutos",
+    "equipamentos": [
+      "Panela",
+      "Amassador de batatas"
+    ],
+    "ingredientes": [
+      "5 Batatas médias",
+      "1/2 xícara de Leite quente",
+      "2 colheres de sopa de Manteiga",
+      "Sal a gosto",
+      "Noz-moscada ralada (opcional)"
     ]
   },
   {
-    "nome": "Angular",
-    "descricao": "Plataforma de desenvolvimento front-end mantida pelo Google, que oferece um framework completo para construir Single Page Applications (SPAs).",
-    "data_criacao": "2010",
-    "link": "https://angular.io/",
-    "tags": [
-      "framework",
-      "frontend",
-      "typescript",
-      "spa"
+    "nome": "Gelatina Colorida em Camadas",
+    "modo_preparo": "Prepare separadamente cada sabor de gelatina com metade da água recomendada (para que fique mais firme). Despeje uma camada em uma forma, leve à geladeira para firmar, e repita o processo com os outros sabores. Sirva gelado.",
+    "tempo_preparo": "180 minutos (incluindo resfriamento)",
+    "equipamentos": [
+      "Forma de pudim",
+      "Panelas pequenas"
+    ],
+    "ingredientes": [
+      "4 caixas de Gelatina de sabores diferentes",
+      "Água fervente e fria"
     ]
   },
   {
-    "nome": "Node.js",
-    "descricao": "Ambiente de execução (runtime) de JavaScript assíncrono e orientado a eventos, usado para construir aplicações de rede escaláveis e back-end.",
-    "data_criacao": "2009",
-    "link": "https://nodejs.org/",
-    "tags": [
-      "runtime",
-      "backend",
-      "escalabilidade",
-      "javascript"
+    "nome": "Farofa de Bacon Crocante",
+    "modo_preparo": "Frite o bacon na própria gordura até ficar crocante. Retire o bacon e, na mesma gordura, refogue a cebola e o alho. Adicione a farinha de mandioca e mexa até dourar. Incorpore o bacon frito e a salsinha.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Frigideira"
+    ],
+    "ingredientes": [
+      "150g Bacon em cubos",
+      "1/2 Cebola picada",
+      "2 Dentes de alho",
+      "2 xícaras de Farinha de Mandioca (torrada ou crua)",
+      "Salsinha a gosto"
     ]
   },
   {
-    "nome": "Spring Boot",
-    "descricao": "Framework que simplifica a criação de aplicações Spring standalone, auto-executáveis e prontas para produção, usando a convenção sobre configuração.",
-    "data_criacao": "2014",
-    "link": "https://spring.io/projects/spring-boot",
-    "tags": [
-      "framework",
-      "backend",
-      "microserviços",
-      "java"
+    "nome": "Torrada Petrópolis (com ovo)",
+    "modo_preparo": "Bata os ovos com leite, sal e canela. Molhe as fatias de pão nesta mistura. Frite em manteiga ou óleo em fogo médio até dourarem dos dois lados. Polvilhe açúcar e canela.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Frigideira",
+      "Prato fundo"
+    ],
+    "ingredientes": [
+      "6 Fatias de pão de forma",
+      "2 Ovos grandes",
+      "1/2 xícara de Leite",
+      "1 colher de chá de Canela",
+      "Açúcar para polvilhar",
+      "Manteiga para fritar"
     ]
   },
   {
-    "nome": "Django",
-    "descricao": "Framework web de alto nível em Python que incentiva o desenvolvimento rápido e design limpo e pragmático ('Bateria incluída').",
-    "data_criacao": "2005",
-    "link": "https://www.djangoproject.com/",
-    "tags": [
-      "framework",
-      "backend",
-      "orm",
-      "python"
+    "nome": "Tapioca Salgada de Queijo",
+    "modo_preparo": "Aqueça uma frigideira antiaderente. Espalhe a goma de tapioca peneirada sobre o fundo da frigideira. Deixe cozinhar por 2 minutos. Recheie com o queijo e dobre. Cozinhe até o queijo derreter.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Frigideira antiaderente",
+      "Peneira"
+    ],
+    "ingredientes": [
+      "1 xícara de Goma de tapioca hidratada",
+      "100g Queijo coalho ou muçarela ralado",
+      "Sal a gosto"
     ]
   },
   {
-    "nome": "MongoDB",
-    "descricao": "Banco de dados NoSQL orientado a documentos, que armazena dados em documentos BSON flexíveis, ideal para desenvolvimento ágil.",
-    "data_criacao": "2009",
-    "link": "https://www.mongodb.com/",
-    "tags": [
-      "banco de dados",
-      "nosql",
-      "documentos",
-      "escalabilidade"
+    "nome": "Suco Detox de Couve e Maçã",
+    "modo_preparo": "Bata todos os ingredientes no liquidificador até obter uma mistura homogênea. Se desejar, coe antes de servir. Beba imediatamente.",
+    "tempo_preparo": "5 minutos",
+    "equipamentos": [
+      "Liquidificador"
+    ],
+    "ingredientes": [
+      "2 folhas de Couve",
+      "1 Maçã verde picada",
+      "1 pedaço de Gengibre (opcional)",
+      "200ml Água ou água de coco",
+      "Suco de 1/2 limão"
     ]
   },
   {
-    "nome": "PostgreSQL",
-    "descricao": "Sistema de gerenciamento de banco de dados relacional de código aberto, conhecido por sua robustez, extensibilidade e conformidade com padrões SQL.",
-    "data_criacao": "1996",
-    "link": "https://www.postgresql.org/",
-    "tags": [
-      "banco de dados",
-      "sql",
-      "relacional",
-      "código aberto"
+    "nome": "Sanduíche Natural de Frango Desfiado",
+    "modo_preparo": "Misture o frango desfiado com a maionese, cenoura ralada e temperos. Recheie as fatias de pão de forma integral. Corte ao meio e sirva.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Faca"
+    ],
+    "ingredientes": [
+      "200g Frango cozido e desfiado",
+      "3 colheres de sopa de Maionese",
+      "1/2 Cenoura ralada",
+      "Pão de forma integral",
+      "Sal e cheiro verde a gosto"
     ]
   },
   {
-    "nome": "Redis",
-    "descricao": "Estrutura de dados em memória, usada como cache, banco de dados ou message broker. Oferece alta performance para armazenamento de chave-valor.",
-    "data_criacao": "2009",
-    "link": "https://redis.io/",
-    "tags": [
-      "banco de dados",
-      "cache",
-      "chave-valor",
-      "in-memory"
+    "nome": "Mingau de Aveia Matinal",
+    "modo_preparo": "Misture a aveia, o leite e o açúcar em uma panela. Cozinhe em fogo médio, mexendo sempre, até engrossar. Sirva quente com frutas picadas ou canela.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Panela pequena"
+    ],
+    "ingredientes": [
+      "1/2 xícara de Aveia em flocos",
+      "1 xícara de Leite",
+      "2 colheres de sopa de Açúcar ou adoçante",
+      "Canela em pó para servir"
     ]
   },
   {
-    "nome": "Docker",
-    "descricao": "Plataforma que permite empacotar e isolar aplicações e suas dependências em containers leves e portáteis, facilitando o deploy.",
-    "data_criacao": "2013",
-    "link": "https://www.docker.com/",
-    "tags": [
-      "virtualização",
-      "devops",
-      "containers",
-      "ci/cd"
+    "nome": "Bolinho de Chuva Simples",
+    "modo_preparo": "Misture o ovo, o leite, o açúcar e a farinha até formar uma massa lisa. Adicione o fermento. Frite colheradas da massa em óleo quente até dourarem. Escorra e passe no açúcar misturado com canela.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Panela funda para fritura",
+      "Tigela"
+    ],
+    "ingredientes": [
+      "1 Ovo",
+      "1 xícara de Leite",
+      "1/2 xícara de Açúcar",
+      "2 xícaras de Farinha de trigo",
+      "1 colher de sopa de Fermento químico",
+      "Óleo para fritar",
+      "Açúcar e canela para polvilhar"
     ]
   },
   {
-    "nome": "Kubernetes (K8s)",
-    "descricao": "Sistema de orquestração de containers de código aberto, originalmente desenvolvido pelo Google, usado para automatizar a implantação e gerenciamento de aplicações.",
-    "data_criacao": "2014",
-    "link": "https://kubernetes.io/",
-    "tags": [
-      "orquestração",
-      "devops",
-      "cloud computing",
-      "containers"
+    "nome": "Abobrinha Refogada com Alho",
+    "modo_preparo": "Refogue o alho no azeite. Adicione a abobrinha cortada em cubos ou rodelas. Cozinhe em fogo médio por cerca de 8 minutos, até ficar macia, mas ainda crocante. Tempere com sal e pimenta.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Frigideira funda"
+    ],
+    "ingredientes": [
+      "2 Abobrinhas médias",
+      "3 Dentes de alho picados",
+      "Azeite de oliva",
+      "Sal e pimenta a gosto"
     ]
   },
   {
-    "nome": "Terraform",
-    "descricao": "Ferramenta de Infraestrutura como Código (IaC) da HashiCorp, que permite provisionar e gerenciar infraestrutura em diversas plataformas de nuvem usando código declarativo.",
-    "data_criacao": "2014",
-    "link": "https://www.terraform.io/",
-    "tags": [
-      "devops",
-      "iac",
-      "cloud computing",
-      "automação"
+    "nome": "Peixe Assado no Papelote",
+    "modo_preparo": "Tempere os filés de peixe com sal, limão e ervas. Coloque cada filé sobre um quadrado de papel alumínio. Adicione legumes finos (tomate, cebola). Feche o papelote hermeticamente. Asse em forno a 200°C por 20 minutos.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Papel Alumínio"
+    ],
+    "ingredientes": [
+      "4 Filés de peixe (Tilápia ou Merluza)",
+      "1 Limão",
+      "Tomate e cebola em rodelas",
+      "Azeite de oliva",
+      "Sal e Alecrim"
     ]
   },
   {
-    "nome": "GraphQL",
-    "descricao": "Linguagem de consulta de dados para APIs desenvolvida pelo Facebook, que permite aos clientes solicitar exatamente os dados de que precisam.",
-    "data_criacao": "2015",
-    "link": "https://graphql.org/",
-    "tags": [
-      "api",
-      "protocolo",
-      "frontend",
-      "backend"
+    "nome": "Maionese Caseira Rápida (com ovo cozido)",
+    "modo_preparo": "Cozinhe os ovos. No liquidificador, bata os ovos cozidos, o ovo cru, o alho, o sal e o limão. Com o liquidificador ligado, adicione o óleo em fio lento até a maionese emulsificar e engrossar. Refrigere antes de servir.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Liquidificador"
+    ],
+    "ingredientes": [
+      "2 Ovos cozidos",
+      "1 Ovo cru",
+      "1 Dente de alho",
+      "Suco de 1/2 limão",
+      "Óleo vegetal (cerca de 300ml)",
+      "Sal a gosto"
     ]
   },
   {
-    "nome": "AWS (Amazon Web Services)",
-    "descricao": "Maior e mais abrangente plataforma de computação em nuvem do mundo, oferecendo mais de 200 serviços completos de data centers globais.",
-    "data_criacao": "2006",
-    "link": "https://aws.amazon.com/",
-    "tags": [
-      "cloud computing",
-      "infraestrutura",
-      "paas",
-      "serviços"
+    "nome": "Limonada Suíça Cremosa",
+    "modo_preparo": "Lave e corte os limões (com casca). Bata no liquidificador com a água, o açúcar e o leite condensado. Coe a mistura em uma jarra. Sirva com gelo.",
+    "tempo_preparo": "7 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Peneira"
+    ],
+    "ingredientes": [
+      "3 Limões Taiti (com casca)",
+      "500ml de Água gelada",
+      "4 colheres de sopa de Açúcar",
+      "2 colheres de sopa de Leite Condensado",
+      "Gelo"
     ]
   },
   {
-    "nome": "Azure (Microsoft Azure)",
-    "descricao": "Plataforma de computação em nuvem da Microsoft, oferecendo serviços integrados de IaaS, PaaS e SaaS para desenvolvimento e gerenciamento de aplicações.",
-    "data_criacao": "2010",
-    "link": "https://azure.microsoft.com/",
-    "tags": [
-      "cloud computing",
-      "microsoft",
-      "iaas",
-      "devops"
+    "nome": "Couve-Flor Gratinada",
+    "modo_preparo": "Cozinhe a couve-flor em floretes até ficar al dente. Prepare um molho branco simples. Misture a couve-flor ao molho. Transfira para um refratário, cubra com queijo parmesão ralado e leve ao forno para gratinar.",
+    "tempo_preparo": "35 minutos",
+    "equipamentos": [
+      "Panela",
+      "Refratário para forno"
+    ],
+    "ingredientes": [
+      "1 Couve-flor média",
+      "1/2 litro de Leite",
+      "2 colheres de sopa de Farinha de trigo",
+      "2 colheres de sopa de Manteiga",
+      "100g Queijo parmesão ralado",
+      "Sal e Noz-moscada"
     ]
   },
   {
-    "nome": "Apache Kafka",
-    "descricao": "Plataforma de streaming distribuída que permite publicar, assinar, armazenar e processar fluxos de registros em tempo real.",
-    "data_criacao": "2011",
-    "link": "https://kafka.apache.org/",
-    "tags": [
-      "streaming",
-      "mensageria",
-      "big data",
-      "distribuído"
+    "nome": "Crepioca de Banana e Canela",
+    "modo_preparo": "Misture a goma de tapioca, o ovo e a chia (opcional). Despeje a massa em uma frigideira antiaderente quente. Cozinhe por 2 minutos. Vire, adicione a banana fatiada e polvilhe canela. Dobre e sirva.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Frigideira antiaderente",
+      "Tigela pequena"
+    ],
+    "ingredientes": [
+      "2 colheres de sopa de Goma de tapioca",
+      "1 Ovo",
+      "1 Banana madura",
+      "Canela em pó",
+      "1 colher de chá de Chia (opcional)"
     ]
   },
   {
-    "nome": "Elixir",
-    "descricao": "Linguagem de programação funcional, dinâmica e concorrente que roda na Erlang Virtual Machine (BEAM), ideal para sistemas escaláveis e tolerantes a falhas.",
-    "data_criacao": "2012",
-    "link": "https://elixir-lang.org/",
-    "tags": [
-      "linguagem de programação",
-      "concorrência",
-      "backend",
-      "funcional"
+    "nome": "Salada de Frutas com Iogurte",
+    "modo_preparo": "Pique todas as frutas. Misture em uma tigela grande. Adicione o suco de laranja para evitar que as frutas escureçam. Na hora de servir, cubra com iogurte natural e mel.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Faca",
+      "Tigela grande"
+    ],
+    "ingredientes": [
+      "1 Maçã",
+      "1 Banana",
+      "1 Pêra",
+      "1/2 Mamão",
+      "Suco de 1 Laranja",
+      "1 pote de Iogurte natural",
+      "Mel a gosto"
     ]
   },
   {
-    "nome": "Svelte",
-    "descricao": "Framework de front-end que opera como um compilador, transformando o código declarativo em JavaScript imperativo de alto desempenho em tempo de build.",
-    "data_criacao": "2016",
-    "link": "https://svelte.dev/",
-    "tags": [
-      "framework",
-      "frontend",
-      "compilador",
-      "performance"
+    "nome": "Orelha de Gato (Cueca Virada)",
+    "modo_preparo": "Misture todos os ingredientes da massa (farinha, ovos, açúcar, manteiga, fermento) até obter uma massa lisa. Abra a massa fina, corte em tiras e faça o formato de 'cueca virada'. Frite em óleo quente. Polvilhe açúcar e canela.",
+    "tempo_preparo": "40 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Rolo de macarrão",
+      "Panela para fritura"
+    ],
+    "ingredientes": [
+      "3 xícaras de Farinha de trigo",
+      "2 Ovos",
+      "3 colheres de sopa de Manteiga derretida",
+      "1/2 xícara de Açúcar",
+      "1 colher de sopa de Fermento químico",
+      "Leite (se necessário)",
+      "Óleo para fritar"
     ]
   },
   {
-    "nome": "Jenkins",
-    "descricao": "Servidor de automação de código aberto amplamente utilizado para construir pipelines de Integração Contínua (CI) e Entrega Contínua (CD).",
-    "data_criacao": "2011",
-    "link": "https://www.jenkins.io/",
-    "tags": [
-      "devops",
-      "ci/cd",
-      "automação",
-      "servidor"
+    "nome": "Vinaigrette para Salada",
+    "modo_preparo": "Em uma tigela pequena, misture a mostarda e o vinagre. Adicione o azeite em fio, batendo rapidamente com um garfo até emulsificar. Tempere com sal, pimenta e cheiro verde.",
+    "tempo_preparo": "5 minutos",
+    "equipamentos": [
+      "Tigela pequena",
+      "Garfo ou batedor"
+    ],
+    "ingredientes": [
+      "3 colheres de sopa de Azeite de oliva extra virgem",
+      "1 colher de sopa de Vinagre de vinho branco ou limão",
+      "1 colher de chá de Mostarda Dijon",
+      "Sal e pimenta do reino a gosto",
+      "Cheiro verde picado"
     ]
   },
   {
-    "nome": "Dart",
-    "descricao": "Linguagem de programação otimizada para cliente, desenvolvida pelo Google, mais conhecida por ser a base do framework Flutter para desenvolvimento móvel.",
-    "data_criacao": "2011",
-    "link": "https://dart.dev/",
-    "tags": [
-      "linguagem de programação",
-      "mobile",
-      "frontend",
-      "flutter"
+    "nome": "Batata Rústica Assada com Alecrim",
+    "modo_preparo": "Lave e corte as batatas com casca em gomos. Cozinhe brevemente (5 minutos) em água e sal. Escorra. Misture com azeite, alho picado, sal e alecrim fresco. Espalhe em uma assadeira e leve ao forno a 220°C por 30 minutos, virando na metade do tempo, até ficarem douradas e crocantes.",
+    "tempo_preparo": "45 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Panela"
+    ],
+    "ingredientes": [
+      "6 Batatas médias (Asterix ou Inglesa)",
+      "4 colheres de sopa de Azeite de oliva",
+      "3 Dentes de alho picados",
+      "Alecrim fresco a gosto",
+      "Sal grosso"
+    ]
+  },
+  {
+    "nome": "Ovo Poché Perfeito",
+    "modo_preparo": "Ferva água em uma panela média e adicione uma colher de vinagre. Diminua o fogo até que a água esteja apenas tremendo. Quebre o ovo em uma xícara e despeje-o suavemente na água. Cozinhe por 3 a 4 minutos até a clara estar firme e a gema mole. Retire com uma escumadeira.",
+    "tempo_preparo": "5 minutos",
+    "equipamentos": [
+      "Panela média",
+      "Escumadeira",
+      "Xícara"
+    ],
+    "ingredientes": [
+      "4 ovos frescos",
+      "1 litro de água",
+      "1 colher de sopa de vinagre branco",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  {
+    "nome": "Salmão Selado na Manteiga",
+    "modo_preparo": "Tempere os filés de salmão com sal, pimenta e limão. Aqueça a frigideira em fogo médio-alto e adicione o azeite. Quando estiver bem quente, coloque os filés com a pele para baixo. Doure por 4 minutos. Vire, adicione a manteiga e o alho, regando o peixe com a manteiga derretida. Cozinhe por mais 3 a 5 minutos, dependendo da espessura.",
+    "tempo_preparo": "12 minutos",
+    "equipamentos": [
+      "Frigideira antiaderente",
+      "Pinça ou espátula"
+    ],
+    "ingredientes": [
+      "2 filés de salmão (cerca de 150g cada)",
+      "1 colher de sopa de azeite",
+      "1 colher de sopa de manteiga",
+      "2 dentes de alho amassados",
+      "Suco de 1/2 limão",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Arroz de Forno Cremoso com Presunto e Queijo",
+    "modo_preparo": "Em uma tigela grande, misture o arroz cozido, o creme de leite, o requeijão, o presunto picado e metade do queijo muçarela. Ajuste o sal. Transfira para um refratário untado. Cubra com o restante da muçarela e o orégano. Leve ao forno pré-aquecido a 180°C por cerca de 20 minutos, ou até gratinar e borbulhar.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Tigela grande",
+      "Refratário para forno"
+    ],
+    "ingredientes": [
+      "3 xícaras de arroz cozido (sobra)",
+      "1 lata de creme de leite",
+      "1/2 copo de requeijão cremoso",
+      "100g de presunto picado",
+      "150g de queijo muçarela ralado",
+      "Orégano a gosto",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Geleia Rápida de Morango no Micro-ondas",
+    "modo_preparo": "Lave e pique os morangos. Coloque-os em um recipiente de vidro próprio para micro-ondas. Adicione o açúcar e o suco de limão. Misture bem. Leve ao micro-ondas em potência alta por 5 minutos. Mexa e retorne por mais 3 a 5 minutos, até atingir a consistência desejada. Esfrie e guarde na geladeira.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Recipiente de vidro para micro-ondas"
+    ],
+    "ingredientes": [
+      "2 xícaras de morangos picados",
+      "1/2 xícara de açúcar",
+      "1 colher de chá de suco de limão"
+    ]
+  },
+  {
+    "nome": "Couve Refogada com Bacon",
+    "modo_preparo": "Lave e corte a couve em tiras bem finas. Em uma panela, frite o bacon picado até ficar crocante. Retire o bacon, mas reserve a gordura. Na mesma gordura, refogue o alho. Adicione a couve e o sal. Refogue rapidamente em fogo alto por 2 a 3 minutos, apenas para murchar. Misture o bacon frito e sirva.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Panela ou frigideira grande",
+      "Faca"
+    ],
+    "ingredientes": [
+      "1 maço de couve manteiga",
+      "50g de bacon picado",
+      "2 dentes de alho picados",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Sobrecoxa Assada com Ervas Finas",
+    "modo_preparo": "Lave as sobrecoxas. Em uma tigela, misture o azeite, as ervas finas, o alho picado, sal e pimenta. Esfregue este tempero nas sobrecoxas, garantindo que fiquem bem cobertas. Coloque em uma assadeira e cubra com papel alumínio. Asse em forno pré-aquecido a 200°C por 30 minutos. Retire o papel e asse por mais 20 minutos para dourar.",
+    "tempo_preparo": "50 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Tigela"
+    ],
+    "ingredientes": [
+      "4 sobrecoxas de frango",
+      "3 colheres de sopa de azeite de oliva",
+      "1 colher de sopa de ervas finas (tomilho, alecrim, orégano)",
+      "3 dentes de alho picados",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Patê de Atum Cremoso",
+    "modo_preparo": "Escorra o óleo ou a água das latas de atum. Em uma tigela, desfie o atum e misture com a maionese, o creme de leite, a cebola picada e a salsa. Mexa bem até obter uma pasta homogênea. Prove e adicione sal e pimenta se necessário. Sirva gelado com torradas ou pães.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Garfo"
+    ],
+    "ingredientes": [
+      "2 latas de atum sólido",
+      "1/2 xícara de maionese",
+      "3 colheres de sopa de creme de leite (sem soro)",
+      "1/4 de cebola pequena picada finamente",
+      "1 colher de sopa de salsa picada",
+      "Sal e pimenta a gosto"
+    ]
+  },
+  {
+    "nome": "Bolinho de Milho Frito Simples",
+    "modo_preparo": "Misture o fubá, a farinha de trigo e o fermento em uma tigela. Em outra tigela, bata os ovos, o leite e o açúcar até incorporar. Junte os ingredientes líquidos aos secos, misturando bem até obter uma massa lisa. Aqueça o óleo em uma panela funda. Com o auxílio de duas colheres, forme os bolinhos e frite em óleo quente até dourarem. Escorra em papel toalha e polvilhe com açúcar e canela (opcional).",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Duas tigelas",
+      "Panela funda para fritura",
+      "Escumadeira"
+    ],
+    "ingredientes": [
+      "1 xícara de fubá",
+      "1/2 xícara de farinha de trigo",
+      "1/4 xícara de açúcar",
+      "1 colher de sopa de fermento em pó",
+      "1 ovo",
+      "1/2 xícara de leite",
+      "Óleo para fritar"
+    ]
+  },
+  {
+    "nome": "Maçã Assada com Canela e Mel",
+    "modo_preparo": "Lave as maçãs e retire o miolo e as sementes (sem furar a base). Coloque-as em uma assadeira pequena. Dentro do buraco de cada maçã, coloque uma colher de chá de mel e polvilhe generosamente com canela em pó. Adicione 1/4 de xícara de água no fundo da assadeira. Cubra com papel alumínio e asse em forno pré-aquecido a 180°C por 20 minutos. Retire o papel e asse por mais 10 minutos para caramelizar.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Assadeira pequena",
+      "Descaroçador ou faca"
+    ],
+    "ingredientes": [
+      "4 maçãs vermelhas (Fuji ou Gala)",
+      "4 colheres de chá de mel",
+      "Canela em pó a gosto",
+      "Água (para o fundo da assadeira)"
+    ]
+  },
+  {
+    "nome": "Sopa de Tomate Simples e Rápida",
+    "modo_preparo": "Refogue a cebola e o alho no azeite em uma panela grande. Adicione os tomates pelados (com o suco) e o caldo de legumes. Deixe ferver e cozinhe por 15 minutos. Use um mixer ou liquidificador para processar a sopa até ficar homogênea e cremosa. Retorne ao fogo, adicione o manjericão, ajuste o sal e a pimenta. Sirva quente com um fio de azeite.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Panela grande",
+      "Liquidificador ou mixer"
+    ],
+    "ingredientes": [
+      "1 lata de tomates pelados",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "1 xícara de caldo de legumes (ou água)",
+      "2 colheres de sopa de azeite de oliva",
+      "Folhas de manjericão fresco",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Pão de Queijo de Frigideira",
+    "modo_preparo": "Misture o ovo, o polvilho, o queijo e o sal até formar uma massa homogênea. Aqueça a frigideira untada em fogo baixo. Despeje a massa e doure dos dois lados. Sirva quente.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Frigideira antiaderente",
+      "Tigela"
+    ],
+    "ingredientes": [
+      "1 ovo",
+      "3 colheres de sopa de polvilho doce ou azedo",
+      "3 colheres de sopa de queijo parmesão ralado",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Macarrão Alho e Óleo Simples",
+    "modo_preparo": "Cozinhe o macarrão até ficar al dente. Enquanto isso, doure o alho no azeite em uma panela grande. Adicione o macarrão escorrido na panela com o alho e misture bem. Finalize com salsinha picada.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Panela grande",
+      "Escorredor"
+    ],
+    "ingredientes": [
+      "250g de espaguete",
+      "4 dentes de alho picados",
+      "1/2 xícara de azeite de oliva",
+      "Salsinha picada a gosto",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Brigadeiro de Colher",
+    "modo_preparo": "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga. Leve ao fogo baixo, mexendo sempre, até desgrudar do fundo da panela (ponto de brigadeiro mole). Desligue e adicione o creme de leite. Sirva em copinhos.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Panela média",
+      "Colher de pau"
+    ],
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "3 colheres de sopa de chocolate em pó",
+      "1 colher de sopa de manteiga",
+      "1/4 caixa de creme de leite (opcional)"
+    ]
+  },
+  {
+    "nome": "Risoto Rápido de Cogumelos",
+    "modo_preparo": "Refogue o alho e a cebola na manteiga. Adicione o arroz e o vinho, deixando evaporar. Acrescente os cogumelos e o caldo quente, concha por concha, mexendo sempre, até o arroz ficar macio. Finalize com queijo ralado.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Panela funda"
+    ],
+    "ingredientes": [
+      "1 xícara de arroz arbóreo",
+      "1/2 cebola picada",
+      "200g de cogumelos fatiados",
+      "50g de manteiga",
+      "1/2 xícara de vinho branco seco",
+      "1 litro de caldo de legumes quente",
+      "Queijo parmesão ralado a gosto"
+    ]
+  },
+  {
+    "nome": "Torta Salgada de Liquidificador",
+    "modo_preparo": "Bata no liquidificador os ovos, o leite, o óleo, a farinha, o queijo e o fermento. Despeje metade da massa em uma forma untada. Coloque o recheio (presunto e queijo picados) e cubra com o restante da massa. Asse em forno pré-aquecido a 180°C por 30 minutos.",
+    "tempo_preparo": "45 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Forma de bolo"
+    ],
+    "ingredientes": [
+      "3 ovos",
+      "1 xícara de leite",
+      "1/2 xícara de óleo",
+      "2 xícaras de farinha de trigo",
+      "1 colher de sopa de fermento em pó",
+      "100g de presunto picado",
+      "100g de muçarela picada"
+    ]
+  },
+  {
+    "nome": "Pudim de Leite Condensado na Panela de Pressão",
+    "modo_preparo": "Faça o caramelo (açúcar derretido com água) na forma de pudim. Bata no liquidificador o leite condensado, o leite e os ovos. Despeje na forma caramelizada, tampe com papel alumínio. Coloque 2 xícaras de água na panela de pressão, a forma dentro e cozinhe por 15 minutos após o chiado. Deixe esfriar e desenforme.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Panela de pressão",
+      "Liquidificador",
+      "Forma de pudim"
+    ],
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "A mesma medida de leite integral",
+      "3 ovos",
+      "1 xícara de açúcar (para o caramelo)"
+    ]
+  },
+  {
+    "nome": "Panqueca Americana Básica",
+    "modo_preparo": "Misture a farinha, o açúcar, o fermento e o sal. Adicione o ovo, o leite e a manteiga derretida, misturando apenas até incorporar. Despeje pequenas porções em uma frigideira quente e untada. Quando surgirem bolhas, vire e doure o outro lado. Sirva com mel ou manteiga.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Frigideira",
+      "Tigela"
+    ],
+    "ingredientes": [
+      "1 e 1/2 xícara de farinha de trigo",
+      "2 colheres de sopa de açúcar",
+      "2 colheres de chá de fermento em pó",
+      "1 ovo",
+      "1 xícara de leite",
+      "2 colheres de sopa de manteiga derretida"
+    ]
+  },
+  {
+    "nome": "Molho Pesto Caseiro Rápido",
+    "modo_preparo": "No processador ou liquidificador, coloque o manjericão, as nozes, o queijo, o alho e o sal. Pulse algumas vezes e vá adicionando o azeite em fio até atingir a consistência desejada. Guarde em pote de vidro esterilizado.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Processador de alimentos ou liquidificador"
+    ],
+    "ingredientes": [
+      "2 xícaras de folhas de manjericão fresco",
+      "1/2 xícara de azeite de oliva extra virgem",
+      "1/4 xícara de queijo parmesão ralado",
+      "2 colheres de sopa de nozes ou castanhas",
+      "1 dente de alho",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Feijão Tropeiro Mineiro Rápido",
+    "modo_preparo": "Frite o bacon até ficar crocante e reserve. Na mesma gordura, refogue o alho e a cebola. Adicione a linguiça calabresa e frite. Junte o feijão cozido (sem caldo) e a farinha de mandioca. Misture bem até incorporar. Finalize com o bacon, couve crua picada e cheiro-verde.",
+    "tempo_preparo": "25 minutos",
+    "equipamentos": [
+      "Panela grande"
+    ],
+    "ingredientes": [
+      "1 xícara de feijão cozido e escorrido",
+      "100g de bacon picado",
+      "1/2 linguiça calabresa picada",
+      "1/2 cebola picada",
+      "3 colheres de sopa de farinha de mandioca torrada",
+      "1 folha de couve picada finamente"
+    ]
+  },
+  {
+    "nome": "Bolo de Cenoura Simples (Sem Cobertura)",
+    "modo_preparo": "Bata no liquidificador as cenouras, os ovos e o óleo. Em uma tigela, misture a farinha, o açúcar e o fermento. Despeje a mistura líquida nos secos e misture delicadamente. Coloque em forma untada e asse em forno médio (180°C) por cerca de 35 minutos.",
+    "tempo_preparo": "50 minutos",
+    "equipamentos": [
+      "Liquidificador",
+      "Tigela",
+      "Forma de bolo"
+    ],
+    "ingredientes": [
+      "3 cenouras médias picadas",
+      "4 ovos",
+      "1/2 xícara de óleo",
+      "2 xícaras de farinha de trigo",
+      "2 xícaras de açúcar",
+      "1 colher de sopa de fermento em pó"
+    ]
+  },
+  {
+    "nome": "Camarão ao Alho e Óleo na Airfryer",
+    "modo_preparo": "Tempere os camarões limpos com azeite, alho picado, limão, sal e pimenta. Distribua na cesta da airfryer. Cozinhe por 10 a 12 minutos a 200°C, virando na metade do tempo. Finalize com salsinha fresca.",
+    "tempo_preparo": "15 minutos",
+    "equipamentos": [
+      "Airfryer",
+      "Tigela"
+    ],
+    "ingredientes": [
+      "500g de camarão limpo",
+      "3 dentes de alho picados",
+      "Azeite de oliva",
+      "Suco de 1/2 limão",
+      "Salsinha picada",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Pizza de Pão de Forma",
+    "modo_preparo": "Em uma assadeira untada, arrume as fatias de pão de forma lado a lado. Espalhe molho de tomate sobre cada fatia. Coloque o recheio (presunto, queijo, orégano). Leve ao forno pré-aquecido por cerca de 10 minutos, ou até o queijo derreter e o pão tostar nas bordas.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Assadeira",
+      "Forno"
+    ],
+    "ingredientes": [
+      "1 pacote de pão de forma (sem casca)",
+      "1/2 xícara de molho de tomate pronto",
+      "200g de muçarela fatiada",
+      "100g de presunto fatiado",
+      "Orégano a gosto"
+    ]
+  },
+  {
+    "nome": "Omelete Doce de Banana",
+    "modo_preparo": "Bata os ovos com o açúcar e a canela. Corte a banana em rodelas. Derreta a manteiga na frigideira e despeje a mistura de ovos. Adicione as rodelas de banana por cima. Deixe cozinhar em fogo baixo até firmar. Dobre a omelete ao meio e sirva.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Frigideira",
+      "Batedor de arame (fouet)"
+    ],
+    "ingredientes": [
+      "2 ovos",
+      "1 banana madura",
+      "1 colher de chá de açúcar",
+      "1 pitada de canela",
+      "1 colher de chá de manteiga"
+    ]
+  },
+  {
+    "nome": "Mousse de Limão de 3 Ingredientes",
+    "modo_preparo": "Bata no liquidificador o leite condensado, o creme de leite e o suco de limão até a mistura engrossar. Despeje em taças e leve para gelar por pelo menos 2 horas.",
+    "tempo_preparo": "5 minutos (mais tempo de geladeira)",
+    "equipamentos": [
+      "Liquidificador",
+      "Taças"
+    ],
+    "ingredientes": [
+      "1 lata de leite condensado",
+      "1 caixa de creme de leite",
+      "1/2 xícara de suco de limão concentrado"
+    ]
+  },
+  {
+    "nome": "Canjica Simples",
+    "modo_preparo": "Cozinhe a canjica (milho branco) na panela de pressão com água por 40 minutos (deve estar macia). Escorra a água e adicione o leite, leite condensado, açúcar e o cravo/canela. Cozinhe em fogo baixo, mexendo de vez em quando, por mais 15 minutos até engrossar. Sirva com coco ralado.",
+    "tempo_preparo": "60 minutos",
+    "equipamentos": [
+      "Panela de pressão",
+      "Panela grande"
+    ],
+    "ingredientes": [
+      "500g de canjica (milho branco)",
+      "1 litro de leite integral",
+      "1 lata de leite condensado",
+      "1/2 xícara de açúcar",
+      "Cravo e canela em pau a gosto",
+      "Coco ralado (para servir)"
+    ]
+  },
+  {
+    "nome": "Cuscuz Nordestino com Manteiga",
+    "modo_preparo": "Misture o flocão de milho, a água e o sal. Deixe hidratar por 10 minutos. Coloque a mistura na cuscuzeira. Leve ao fogo por 15 minutos (a partir da fervura da água). Desenforme e sirva quente com manteiga derretida.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Cuscuzeira",
+      "Tigela"
+    ],
+    "ingredientes": [
+      "1 xícara de flocão de milho",
+      "1/2 xícara de água",
+      "1 colher de chá de sal",
+      "Manteiga a gosto (para servir)"
+    ]
+  },
+  {
+    "nome": "Wrap de Presunto e Queijo na Chapa",
+    "modo_preparo": "Aqueça a chapa ou frigideira. Coloque o wrap (tortilha de trigo) sobre a superfície. Adicione o queijo e o presunto, dobrando em seguida. Pressione na chapa até o queijo derreter e a tortilha ficar dourada e crocante. Corte ao meio e sirva.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Frigideira ou chapa"
+    ],
+    "ingredientes": [
+      "2 tortilhas de trigo (wrap)",
+      "4 fatias de presunto",
+      "4 fatias de queijo muçarela",
+      "Manteiga ou azeite para untar"
+    ]
+  },
+  {
+    "nome": "Ovos Mexidos Cremosos",
+    "modo_preparo": "Bata os ovos com o leite, sal e pimenta. Derreta a manteiga em uma frigideira antiaderente em fogo baixo. Despeje a mistura de ovos e mexa suavemente com uma espátula, raspando as bordas, até atingir a cremosidade desejada (cerca de 5 minutos).",
+    "tempo_preparo": "8 minutos",
+    "equipamentos": [
+      "Frigideira antiaderente",
+      "Espátula"
+    ],
+    "ingredientes": [
+      "3 ovos grandes",
+      "2 colheres de sopa de leite (ou creme de leite)",
+      "1 colher de chá de manteiga",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Salada Caprese",
+    "modo_preparo": "Corte os tomates e a muçarela de búfala em rodelas ou cubos. Intercale os ingredientes em um prato, adicionando folhas frescas de manjericão. Regue com azeite de oliva e finalize com sal e pimenta do reino moída na hora.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Faca de corte",
+      "Prato de servir"
+    ],
+    "ingredientes": [
+      "2 tomates maduros",
+      "200g de muçarela de búfala (bolinhas ou rodelas)",
+      "Folhas de manjericão fresco",
+      "Azeite de oliva extra virgem",
+      "Sal e pimenta do reino a gosto"
+    ]
+  },
+  {
+    "nome": "Biscoito Amanteigado Simples",
+    "modo_preparo": "Misture a manteiga, o açúcar e o ovo até obter um creme. Adicione a farinha e o fermento, misturando até formar uma massa lisa que não grude nas mãos. Faça bolinhas e achate com um garfo. Asse em forno pré-aquecido a 180°C por 15 a 20 minutos, até dourar levemente.",
+    "tempo_preparo": "35 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Assadeira"
+    ],
+    "ingredientes": [
+      "200g de manteiga sem sal (em temperatura ambiente)",
+      "1 xícara de açúcar",
+      "1 ovo",
+      "3 xícaras de farinha de trigo",
+      "1 colher de chá de fermento químico"
+    ]
+  },
+  {
+    "nome": "Sopa de Mandioca com Carne Seca",
+    "modo_preparo": "Cozinhe a mandioca até ficar macia. Retire um pouco do caldo e bata a mandioca no liquidificador com o restante do caldo. Refogue a carne seca (dessalgada e desfiada) com alho, cebola e temperos. Junte o creme de mandioca, ajuste o sal e deixe ferver por 5 minutos.",
+    "tempo_preparo": "45 minutos",
+    "equipamentos": [
+      "Panela de pressão",
+      "Liquidificador",
+      "Panela média"
+    ],
+    "ingredientes": [
+      "500g de mandioca (aipim)",
+      "200g de carne seca dessalgada e desfiada",
+      "1/2 cebola picada",
+      "2 dentes de alho",
+      "Cheiro-verde a gosto"
+    ]
+  },
+  {
+    "nome": "Tostex de Queijo e Orégano",
+    "modo_preparo": "Passe manteiga nas duas faces externas do pão de forma. Recheie com o queijo e polvilhe orégano sobre o queijo. Coloque na sanduicheira (Tostex) e feche, deixando até o queijo derreter e o pão ficar bem dourado e crocante.",
+    "tempo_preparo": "7 minutos",
+    "equipamentos": [
+      "Sanduicheira elétrica (Tostex)"
+    ],
+    "ingredientes": [
+      "4 fatias de pão de forma",
+      "4 fatias de queijo muçarela",
+      "Manteiga",
+      "Orégano a gosto"
+    ]
+  },
+  {
+    "nome": "Abacate com Açúcar e Leite",
+    "modo_preparo": "Amasse o abacate maduro em uma tigela. Adicione o açúcar e o leite integral. Misture bem até atingir a consistência desejada. Sirva imediatamente.",
+    "tempo_preparo": "5 minutos",
+    "equipamentos": [
+      "Tigela",
+      "Garfo"
+    ],
+    "ingredientes": [
+      "1/2 abacate maduro",
+      "2 a 3 colheres de sopa de açúcar (ou a gosto)",
+      "1/4 xícara de leite integral gelado"
+    ]
+  },
+  {
+    "nome": "Cenoura Cozida no Vapor com Azeite",
+    "modo_preparo": "Corte as cenouras em rodelas ou palitos. Cozinhe no vapor até ficarem macias, mas ainda firmes (cerca de 10-15 minutos). Transfira para um prato, regue com azeite de oliva, adicione sal e salsinha picada.",
+    "tempo_preparo": "20 minutos",
+    "equipamentos": [
+      "Panela para cozimento a vapor ou escorredor de macarrão"
+    ],
+    "ingredientes": [
+      "3 cenouras médias",
+      "Azeite de oliva",
+      "Sal a gosto",
+      "Salsinha picada (opcional)"
+    ]
+  },
+  {
+    "nome": "Vinagrete de Feijão Fradinho",
+    "modo_preparo": "Cozinhe e escorra o feijão fradinho. Misture o feijão ainda morno com o tomate, a cebola e o pimentão picados. Tempere com azeite, vinagre, sal e cheiro-verde. Leve à geladeira para apurar o sabor por pelo menos 1 hora.",
+    "tempo_preparo": "15 minutos (mais tempo de cozimento do feijão)",
+    "equipamentos": [
+      "Panela",
+      "Tigela grande"
+    ],
+    "ingredientes": [
+      "1 xícara de feijão fradinho cozido",
+      "1 tomate picado",
+      "1/2 cebola roxa picada",
+      "1/2 pimentão verde picado",
+      "Azeite e vinagre a gosto",
+      "Cheiro-verde e sal"
+    ]
+  },
+  {
+    "nome": "Purê de Abóbora Cabotiá",
+    "modo_preparo": "Cozinhe a abóbora no vapor ou em água até ficar bem macia. Amasse ou passe pelo espremedor. Em uma panela, refogue o alho na manteiga. Adicione a abóbora amassada, o creme de leite, o sal e misture bem, cozinhando por 5 minutos até ficar homogêneo.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Panela de cozimento",
+      "Espremedor ou garfo"
+    ],
+    "ingredientes": [
+      "500g de abóbora cabotiá sem casca",
+      "2 colheres de sopa de manteiga",
+      "1 dente de alho amassado",
+      "1/4 caixa de creme de leite (opcional)",
+      "Sal a gosto"
+    ]
+  },
+  {
+    "nome": "Macarrão Instantâneo Gourmet (Incrementado)",
+    "modo_preparo": "Cozinhe o macarrão instantâneo conforme as instruções da embalagem, descartando o tempero pronto. Em uma panela, misture o requeijão, a água do cozimento, o queijo e o presunto. Junte o macarrão cozido e misture. Sirva com cebolinha picada.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Panela pequena"
+    ],
+    "ingredientes": [
+      "1 pacote de macarrão instantâneo (lámen)",
+      "1 colher de sopa de requeijão cremoso",
+      "30g de presunto picado",
+      "2 colheres de sopa de queijo ralado",
+      "Água do cozimento"
+    ]
+  },
+  {
+    "nome": "Pão Francês na Chapa com Manteiga",
+    "modo_preparo": "Corte o pão francês ao meio no sentido do comprimento. Espalhe uma camada generosa de manteiga em ambas as metades. Coloque na chapa ou frigideira bem quente, com o lado da manteiga para baixo. Pressione levemente e deixe dourar até ficar crocante. Sirva imediatamente.",
+    "tempo_preparo": "5 minutos",
+    "equipamentos": [
+      "Chapa ou frigideira"
+    ],
+    "ingredientes": [
+      "1 pão francês",
+      "Manteiga sem sal (em temperatura ambiente)"
+    ]
+  },
+  {
+    "nome": "Banana Caramelizada Rápida",
+    "modo_preparo": "Derreta a manteiga em uma frigideira. Adicione o açúcar e a canela, mexendo até formar um caramelo. Coloque as bananas fatiadas na frigideira e doure por cerca de 1 a 2 minutos de cada lado. Sirva quente, com sorvete ou iogurte.",
+    "tempo_preparo": "10 minutos",
+    "equipamentos": [
+      "Frigideira"
+    ],
+    "ingredientes": [
+      "2 bananas maduras (nanica ou prata)",
+      "2 colheres de sopa de açúcar",
+      "1 colher de sopa de manteiga",
+      "1 colher de chá de canela em pó"
+    ]
+  },
+  {
+    "nome": "Carne Moída Simples com Molho",
+    "modo_preparo": "Em uma panela, refogue a carne moída em fogo alto até secar a água e começar a dourar. Adicione alho e cebola picados. Acrescente o molho de tomate, sal e pimenta. Deixe cozinhar em fogo baixo por 15 minutos. Finalize com cheiro-verde.",
+    "tempo_preparo": "30 minutos",
+    "equipamentos": [
+      "Panela funda"
+    ],
+    "ingredientes": [
+      "500g de carne moída (patinho ou acém)",
+      "1/2 cebola picada",
+      "2 dentes de alho",
+      "1/2 xícara de molho de tomate (extrato)",
+      "Cheiro-verde",
+      "Sal e temperos a gosto"
     ]
   }
 ]
